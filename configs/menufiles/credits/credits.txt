@@ -1,0 +1,249 @@
+3D Skin Layers by tr9zw
+Additional Additions by dqu1jjj
+Adorn by Juicebus
+Advanced Netherite by AutovwLive
+Advanced Reborn by pitan76
+Advancement Debug by thetechnici4n
+Advancement Plaques by Grend_G
+AE Additions by MasterYodAT9G
+AE2Things by ProjectET
+Alloy Forgery by LordDeatHunter
+Alternate Current by SpaceWalkerRS
+Ambient Sounds by CreativeMD
+Applied Botanics by ramidzkh
+Applied Energistics 2 by TeamAppliedEnergistics
+Apple Skin by Squeek502
+Aquatic Torches by realmayus
+Architectury by shedaniel
+Artifality by PinkGoosik
+AttributeFix by Flytre7
+Axolotl Item Fix by colderlavalamp
+Badpackets by badasintended
+Balm by BlayTheNinth
+BcLib by paulevs
+Beehive Tooltips by EDToaster
+Beenfo by Giselbaer
+Better Biome Blend by FionaTheMortal
+Better End by paulevs
+Better FPS - Render Distance by someaddon
+Better Nether by paulevs
+Better Third Person by Socolio
+Biome Makeover by Lemonszz
+Biome Particle Weather by shadowmaster404
+Blast by doctor4t
+Blockus by Brandcraft_
+Boat Container by KxmischesDomi
+Bookshelf by DarkhaxDev
+Botania by williewillus
+Bow Infinity Fix by Parker8283
+Break Progress by haykam
+Building Wands by nicguzzo
+C2ME by Ishland
+Can I mine this block? by shedaniel
+Carpet by gnembon
+Carpet Extra by gnembon
+Carrier by GabrielHOIv
+Cave Enhancements by exdrill_10
+Charm by svenhjol
+Chipped by grimbop
+Chisel and Bits by OrionOnline
+Chisel Refabricated by Slaincow
+Client Tweaks by BlayTheNinth
+Cloth Config by shedaniel
+Columns by haykam
+Consistency+ by Cart3r1234
+Continuity by Pepper_Bell
+Craft Presence by CDAGaming_
+Crawl by fewizz_
+Create by Fabricators of Create
+Create Crafts and Additions by Alphamode & MRHMiner
+Create Deco by Alphamode & talrey
+Create Plus by JieningYu
+CreativeCore by CreativeMD
+Creeper AI Updated by srgnis
+Creeper Overhaul oosh_7889
+Croptopia by thethonk
+Croptopia's Chocolaterie by slomax907
+Cull Less Leaves by XanderIsDev
+Custom FOV by TheIllusiveC4
+Dark Enchanting by ffrannny
+Dark Loading Screen by Neecko5b84
+Dawn API by Hugman_76
+Decorative Blocks by stohun
+Deepslate Cutting by NoComment1105
+Dusk by someaddon
+Dustrial Decor by BlueDuckYT
+Dynamic Asset Generator by lukebemish
+Dynamic FPS by juiland665
+Dynamic Surroundings by Orecruncher
+Easy Magic by Fuzs_
+Eating Animations by theone_ss
+Ecologics by SameDifferent
+Economical Villager Trading by supersaiyansubtlety
+Eden Ring by paulevs
+Effective by doctor4t
+Eldritch Mobs by cyborg_pigeon
+Ellemes' Container Library by 3llemes
+Enchantment Descriptions by DarkhaxDev
+Enderscape by bunten2005
+Enhanced Block Entities by FoundationGames
+Enhanced Visuals by CreativeMD
+Enriched by CamoMano_
+Entity Collision FPS Fix by Corgi_Taco
+Entity Culling by tr9zw
+Excavated Variants by lukebemish
+Expanded Storage by 3llemes
+Explorer's Compass by Chaosyr
+Extra Alchemy by zabi94
+Extra Generators by D4rkness_King
+Experience Bug Fix by MacTso
+Fabric API by modmuss50
+Fabric Language Kotlin by modmuss50
+Falling Leaves by RandomMcSomethin
+Falling Tree by RakSrinaNa
+Fancy Menu by Keksuccino
+Farmer's Delight by NewHoryzon
+Fast Load by BumbleSoftware
+Fast open links and folders by altrisi
+Feature NBT Deadlock Be Gone by telepathicgrunt
+FerriteCore by malte0811
+Floral Flair by ibex80
+Forge Config Api Port by Fuzs_
+Forget Me Chunk by BreadLoaf
+Friends & Foes by faboslav
+Gear Reborn by loleq21
+Gecko Lib by ThanosGecko
+Gotta Go Fast by PixelAgent007
+Guard Villagers by MrSterner_
+Health Care by samo_lego
+Hyle by lilypuree
+Iceberg by Grend_G
+Illuminations by doctor4t
+Indium by comp500
+Industrial Revolution by GabrielHOlv
+Infusion Table by jptrzy
+Inmis by Darylar1
+Inventory Hud by dmitrylovin
+Iris Shaders by coderbot
+Iron Chests by cyberanner
+Iron Jetpacks by BlakeBr0
+Item Model Fix by Pepper_Bell
+Journey Map by techbrew
+Just Enough Keys by starmun
+Kibe by D4rkness_King
+Kiwi by Snownee_
+Klee Slabs by BlayTheNinth
+Konkrete by Keksuccino
+Krypton by tuxed
+KubeJS by LatvianModder
+LazyDFU by tuxed
+Library Ferret by jtl_elisa
+Light Overlay by shedaniel
+Lithium by jellysquid3_
+Login Protection by someaddon
+Macaw's Bridges by sketch_macaw
+Macaw's Doors by sketch_macaw
+Macaw's Fences & Walls by sketch_macaw
+Macaw's Lights by sketch_macaw
+Macaw's Paintings by sketch_macaw
+Macaw's Paths and Pavings by sketch_macaw
+Macaw's Roofs by sketch_macaw
+Macaw's Trapdoors by sketch_macaw
+Macaw's Windows by sketch_macaw
+Megane by badasintended
+Memory Leak Fix by fxmorin
+Mining Gadgets by Direwolf20
+Missing Wilds by UltrusBot
+Mo' Colours by GabrielHOlv
+Mo' Glass by alexander9892
+Mo' Structures by ffrannny
+Mob Scarecrows by ProbabilityPigeon
+Mobs Attempt Parkour by Barribob
+Modern Industrialization by thetechnici4n
+Mod Menu by ProspectorDev
+More Babies by mammut53m
+More Geodes by TheDeathlyCow
+More Villagers by SameDifferent
+Music Duration Reducer by LudoCrypt
+Mythic Metals by Noaaan
+Mythic Metals Decorations by Noaaan
+Naturalist by Starfish_Studios
+Nature's Compass by Chaosyr
+Nether Portal Fix by BlayTheNinth
+Not Enough Crashes by NatanFudge
+Oh The Biomes You'll Go by AOCAWOL
+On Soul Fire by MoriyaShiine
+Owo Lib by gliscowo
+Oxidized by safrodev
+Paginated Advancements by DaFuqsy
+Paradise Lost by ImmortalDevs
+Patchouli by williewillus
+Paxi by YUNGNICKYUNG
+Physics by haubna
+Pick Up Notifier by tr9zw
+Planet B by Ayutac
+Plushie by Link_911
+Polymorph by TheIllusiveC4
+Presence Footsteps by S0llace
+Probably Chests by TheArcanePigeon
+Promenade by Hugman_76
+Purpeille by acikek
+Puzzles Lib by fuzs_
+Raised by yurisuika
+Recipe Cache by biom4st3r1
+Red Bits by magistermaks
+Reese's Sodium Options by FlashyReese
+Repurposed Structures by telepathicgrunt
+Respawnable Pet's by MoriyaShiine
+Rhino by LatvianModder
+Roughly Enough Items by shedaniel
+Rusted Iron by Lemonszz
+ServerCore by Wesley8081
+Skip Transitions by TrufflezMC
+Smoke Suppression by supersaiyansubtlety
+Snow! Real Magic! by Snownee_
+Sodium by jellysquid3_
+Sodium Extra by FlashyReese
+Sound Physics by henkelmax
+Space Dimensions by captaintenneal81
+Starlight by Spottedstar
+Stoneholm by TheGrimsey
+Tech Reborn by modmuss50
+Temp Charm Fix by Linguardium
+Terrablender by TheAdubbz
+Terrarian Slimes by D4rkness_King
+Thatched by lilypuree
+The Bumblezone by telepathicgrunt
+The Graveyard by finallion_13
+The Graveyard Biomes by finallion_13
+Tie Fix by j_t_a_i
+Toast Block by Linguardium
+Tool Tip Fix by Kyrptonaught
+Totally Lit by realguyman0
+Travelers Titles by YUNGNICKYUNG
+Trinkets by EmilyPloszaj
+Twigs by ninnih_
+Unearthed by lilypuree
+Vein Mining by TheIllusiveC4
+Very Many Players by ishland
+Visuality by PinkGoosik
+Visual Workbench by Fuzs_
+Waystones by BlayTheNinth
+Wild Life by chirpycricket__
+Wilder World by KaloyanKYS
+Wireless Networks by GabrielHOlv
+WMITAF by ShakesterNano
+WTHIT by badasintended
+You're in grave danger by b1n_ry
+You're options shall be respected by Shedaniel
+Yung's Api by YUNGNICKYUNG
+Yung's Better Desert Temples by YUNGNICKYUNG
+Yung's Better Dungeons by YUNGNICKYUNG
+Yung's Better Mine Shafts by YUNGNICKYUNG
+Yung's Better Strongholds by YUNGNICKYUNG
+Yung's Better Witch Huts by YUNGNICKYUNG
+Yung's Bridges by YUNGNICKYUNG
+Yung's Extras by YUNGNICKYUNG
+Complementary Shaders by EminGTR
+Enhanced Audio by Frawzy
+Realistic Explosions by Narri

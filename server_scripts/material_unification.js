@@ -672,5 +672,5 @@ onEvent('recipes', event => {
 	event.remove({input: 'techreborn:brass_ingot', output: '9x techreborn:brass_nugget'})
   	event.shapeless('create:brass_block', 'techreborn:brass_storage_block')
  	event.shapeless('techreborn:brass_storage_block', 'create:brass_block')
- }
+    }
 )

@@ -81,7 +81,7 @@ onEvent('recipes', event => {
 	"processTime": 200,
 	})
 	event.custom({
-  "	type": "indrev:pulverize",
+  	"type": "indrev:pulverize",
 	"ingredients": {
 		"item": "mythicmetals:manganese_ingot"
 	},

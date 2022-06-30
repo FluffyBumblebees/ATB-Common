@@ -1,4 +1,4 @@
-# All-The-Blocks
+# All The Blocks Scripts
 This is the code that drives "All The Blocks" modpack.
 
 Modpack Page:

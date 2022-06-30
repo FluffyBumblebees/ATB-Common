@@ -597,8 +597,8 @@ onEvent('recipes', event => {
 		' B ',
 		' A '
 		], {
-	  B: 'modern_industrialization:bronze_ingot',
-	  A: 'modern_industrialization:bronze_nugget'
+	  	B: 'modern_industrialization:bronze_ingot',
+	  	A: 'modern_industrialization:bronze_nugget'
 	})
 	event.remove({output: 'indrev:bronze_nugget'})
 	event.replaceOutput('techreborn:bronze_nugget', 'modern_industrialization:bronze_nugget')

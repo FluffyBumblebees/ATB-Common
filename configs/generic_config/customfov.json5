@@ -1,0 +1,54 @@
+{
+	/* Determines which source is allowed to change FoV
+	   NONE: No FoV changes allowed
+	   VANILLA: Only vanilla FoV changes will be allowed
+	   MODDED: Only modded FoV changes will be allowed
+	   ALL: All FoV changes will be applied
+	*/
+	"fovPermission": "ALL",
+	// FoV settings for flying
+	"flying": {
+		// The modifier to multiply by the original FoV modifier
+		"modifier": 0.8,
+		// The minimum FoV modifier value
+		"min": -10.0,
+		// The maximum FoV modifier value
+		"max": 10.0
+	},
+	// FoV settings for sprinting
+	"sprinting": {
+		// The modifier to multiply by the original FoV modifier
+		"modifier": 0.8,
+		// The minimum FoV modifier value
+		"min": -1.0,
+		// The maximum FoV modifier value
+		"max": 1.0
+	},
+	// FoV settings for speed effects
+	"effects": {
+		// The modifier to multiply by the original FoV modifier
+		"modifier": 0.75,
+		// The minimum FoV modifier value
+		"min": -0.025,
+		// The maximum FoV modifier value
+		"max": 0.025
+	},
+	// FoV settings for aiming
+	"aiming": {
+		// The modifier to multiply by the original FoV modifier
+		"modifier": 1.0,
+		// The minimum FoV modifier value
+		"min": -10.0,
+		// The maximum FoV modifier value
+		"max": 10.0
+	},
+	// FoV settings for underwater vision
+	"underwater": {
+		// The modifier to multiply by the original FoV modifier
+		"modifier": 1.0,
+		// The minimum FoV modifier value
+		"min": -10.0,
+		// The maximum FoV modifier value
+		"max": 10.0
+	}
+}

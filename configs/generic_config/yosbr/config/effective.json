@@ -1,0 +1,6 @@
+{
+  "generateCascades": false,
+  "generateSplashes": true,
+  "shouldFlowingWaterSpawnParticlesOnFirstTick": false,
+  "lapisBlockUpdateParticleChance": 10
+}

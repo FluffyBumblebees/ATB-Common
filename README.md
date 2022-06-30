@@ -1,4 +1,4 @@
-# All-The-Blocks-KJS
+# All-The-Blocks
 This is the code that drives "All The Blocks" modpack.
 
 Modpack Page:

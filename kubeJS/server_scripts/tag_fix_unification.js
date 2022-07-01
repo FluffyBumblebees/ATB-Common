@@ -23,7 +23,7 @@ onEvent('tags.items', event => {
 	event.remove('c:zinc_nuggets', 'techreborn:zinc_nugget')
 	event.add('c:plates/zinc', 'techreborn:zinc_plate')
 	//tin = modern_industrialization
-    event.remove('c:tin_dusts', 'indrev:tin_dust')
+   	event.remove('c:tin_dusts', 'indrev:tin_dust')
 	event.remove('c:tin_ingots', 'indrev:tin_ingot')
 	event.remove('c:tin_ingots', 'mythicmetals:tin_ingot')
 	event.remove('c:tin_ingots', 'techreborn:tin_ingot')
@@ -84,4 +84,9 @@ onEvent('tags.items', event => {
 	//Brass = Create
 	event.remove('c:brass_ingots', 'techreborn:brass_ingot')
 	event.add('minecraft:beacon_payment_items', 'create:brass_ingot')
+	event.remove('c:brass_dusts', 'techreborn:brass_dust')
+	event.remove('c:brass_plates', 'create:brass_sheet')
+	event.remove('c:brass_nuggets', 'techreborn:brass_nugget')
+	event.remove('c:brass_plates', 'techreborn:brass_plate')
+	event.add('c:brass_plates', 'create:brass_sheet')
 })

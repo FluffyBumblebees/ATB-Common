@@ -1,0 +1,4 @@
+//This file exists to avoid legal disputes //
+External Resourcepacks:
+Enhanced Audio-r4.zip
+realistic-explosions.zip

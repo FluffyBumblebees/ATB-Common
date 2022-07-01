@@ -2901,7 +2901,14 @@ onEvent('rei.hide.items', event => {
 	'techreborn:bronze_dust',
 	'mythicmetals:bronze_dust',
 	'indrev:bronze_plate',
-	'mythicmetals:bronze_plate'
+	'mythicmetals:bronze_plate',
+	'techreborn:brass_ingot',
+	'techreborn:brass_dust',
+	'techreborn:brass_nugget',
+	'techreborn:brass_plate',
+	'architects_palette:nether_brass_ingot',
+	'architects_palette:nether_brass_blend',
+	'architects_palette:nether_brass_nugget'
 	]
    )
  }

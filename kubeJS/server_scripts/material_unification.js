@@ -597,8 +597,8 @@ onEvent('recipes', event => {
 		' B ',
 		' A '
 		], {
-	  	B: 'modern_industrialization:bronze_ingot',
-	  	A: 'modern_industrialization:bronze_nugget'
+		B: 'modern_industrialization:bronze_ingot',
+		A: 'modern_industrialization:bronze_nugget'
 	})
 	event.remove({output: 'indrev:bronze_nugget'})
 	event.replaceOutput('techreborn:bronze_nugget', 'modern_industrialization:bronze_nugget')
@@ -667,10 +667,119 @@ onEvent('recipes', event => {
 		A: 'create:brass_nugget'
 	})
 	event.shapeless('techreborn:brass_storage_block', '9x create:brass_ingot')
-	event.stonecutting('2x architects_palette:nether_brass_block', 'createdeco:brass_sheet_metal')
 	event.remove({input: 'techreborn:brass_ingot', output: 'techreborn:brass_storage_block'})
 	event.remove({input: 'techreborn:brass_ingot', output: '9x techreborn:brass_nugget'})
   	event.shapeless('create:brass_block', 'techreborn:brass_storage_block')
  	event.shapeless('techreborn:brass_storage_block', 'create:brass_block')
-    }
+	event.remove({output: 'techreborn:brass_dust', type: 'modern_industrialization:macerator'})
+	event.remove({output: 'techreborn:brass_dust', type: 'create:crushing'})
+	event.remove({output: 'architects_palette:nether_brass_blend'})
+	event.remove({output: 'techreborn:brass_dust'})
+	event.custom({
+		"power": 10,
+		"time": 20,
+		"ingredients": [
+		  {
+			"item": "techreborn:scrap_box"
+		  }
+		],
+		"results": [
+		  {
+			"item": "createplus:brass_dust"
+		  }
+		],
+		"type": "techreborn:scrapbox"
+	})
+	event.custom({
+		"type": "techreborn:grinder",
+		"power": 5,
+		"time": 200,
+		"ingredients": [
+		  {
+			"tag": "c:brass_blocks"
+		  }
+		],
+		"results": [
+		  {
+			"item": "createplus:brass_dust",
+			"count": 9
+		  }
+		]
+	})
+	event.custom({
+		"type": "techreborn:grinder",
+		"power": 5,
+		"time": 200,
+		"ingredients": [
+		  {
+			"item": "create:brass_ingot"
+		  }
+		],
+		"results": [
+		  {
+			"item": "createplus:brass_dust"
+		  }
+		]
+	})
+	event.replaceOutput('techreborn:brass_nugget', 'create:brass_nugget')
+	event.remove({output: 'techreborn:brass_plate', type: 'modern_industrialization:macerator'})
+	event.replaceOutput('techreborn:brass_plate', 'create:brass_sheet')
+	event.replaceInput('architects_palette:nether_brass_nugget', 'create:brass_nugget')
+	event.custom({"type": "indrev:infuse",
+	"ingredients": [{
+	    "tag": "c:brass_blocks",
+  	},
+	{
+	    "item": "minecraft:soul_sand",
+		"count": 2
+  	}],
+	"output": {
+	    "item": "architects_palette:nether_brass_block",
+	    "count": 1
+	},
+	"processTime": 600
+	})
+	event.recipes.createMixing('architects_palette:nether_brass_block', [
+		'#c:brass_blocks',
+		'2x minecraft:soul_sand'
+	  ]).heated()
+	  event.custom({
+		"type": "modern_industrialization:mixer",
+		"eu": 2,
+		"duration": 100,
+		"item_inputs": [
+			{
+			  "tag": "c:brass_blocks",
+			  "amount": 1},
+			{
+			  "item": "minecraft:soul_sand",
+			  "amount": 2}
+			]
+		,
+		"item_outputs":{
+		  "item": "architects_palette:nether_brass_block",
+		  "amount": 1
+		}
+	})
+	event.custom({
+		"type": "techreborn:alloy_smelter",
+		"power": 6,
+		"time": 200,
+		"ingredients": [
+		  {
+			"count": 2,
+			"item": "minecraft:soul_sand"
+		  },
+		  {
+			"tag": "c:brass_blocks"
+		  }
+		],
+		"results": [
+		  {
+			"item": "architects_palette:nether_brass_block",
+			"count": 1
+		  }
+		]
+	  })
+  }
 )

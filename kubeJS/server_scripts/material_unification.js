@@ -20,11 +20,9 @@ onEvent('recipes', event => {
   	event.replaceOutput('modern_industrialization:ruby_dust', 'techreborn:ruby_dust')
   	event.replaceInput('modern_industrialization:ruby_tiny_dust', 'techreborn:ruby_small_dust')
    	event.replaceOutput('modern_industrialization:ruby_tiny_dust', 'techreborn:ruby_small_dust')
-	event.shapeless('enriched:ruby_block', '9x techreborn:ruby_gem')
 	event.shapeless('enriched:ruby_block', 'techreborn:ruby_storage_block')
 	event.shapeless('techreborn:ruby_storage_block', 'enriched:ruby_block')
 	//Sapphire = techreborn
-	event.shapeless('enriched:sapphire_block', '9x techreborn:sapphire_gem')
 	event.shapeless('enriched:sapphire_block', 'techreborn:sapphire_storage_block')
 	event.shapeless('techreborn:sapphire_storage_block', 'enriched:sapphire_block')
 	//Silicon = AE2
@@ -90,12 +88,13 @@ onEvent('recipes', event => {
 	},
 	"processTime": 200,
 	})
+	event.remove({output: 'modern_industrialization:manganese_block', input: '9x mythicmetals:manganese_ingot'})
 	//Iridium = modern_industrialization
-	event.smelting('techreborn:iridium_storage_block', '#c:raw_iridium_blocks').xp(4.5).cookingTime(1500.0)
+	event.smelting('techreborn:iridium_storage_block', 'techreborn:raw_iridium_storage_block').xp(4.5).cookingTime(1500.0)
 	event.smelting('techreborn:iridium_storage_block_wall', 'techreborn:raw_iridium_storage_block_wall').xp(0.7)
 	event.smelting('techreborn:iridium_storage_block_slab', 'techreborn:raw_iridium_storage_block_slab').xp(0.7)
 	event.smelting('techreborn:iridium_storage_block_stairs', 'techreborn:raw_iridium_storage_block_stairs').xp(0.7)
-	event.blasting('techreborn:iridium_storage_block', '#c:raw_iridium_blocks').xp(4.5).cookingTime(750.0)
+	event.blasting('techreborn:iridium_storage_block', 'techreborn:raw_iridium_storage_block').xp(4.5).cookingTime(750.0)
 	event.blasting('techreborn:iridium_storage_block_wall', 'techreborn:raw_iridium_storage_block_wall').xp(0.7)
 	event.blasting('techreborn:iridium_storage_block_slab', 'techreborn:raw_iridium_storage_block_slab').xp(0.7)
 	event.blasting('techreborn:iridium_storage_block_stairs', 'techreborn:raw_iridium_storage_block_stairs').xp(0.7)
@@ -111,6 +110,10 @@ onEvent('recipes', event => {
 	event.shapeless('techreborn:raw_iridium_storage_block', 'modern_industrialization:raw_iridium_block')
 	event.replaceOutput('techreborn:iridium_plate', 'modern_industrialization:iridium_plate')
 	event.recipes.createCrushing('modern_industrialization:iridium_tiny_dust', 'modern_industrialization:iridium_nugget')
+	event.remove({output: 'techreborn:iridium_storage_block', input: '9x modern_industrialization:iridium_ingot'})
+	event.remove({output: 'modern_industrialization:raw_iridium_block', input: '9x techreborn:raw_iridium'})
+	event.smelting('modern_industrialization:iridium_block', 'modern_industrialization:raw_iridium_block').xp(4.5).cookingTime(1500.0)
+	event.blasting('modern_industrialization:iridium_block', 'modern_industrialization:raw_iridium_block').xp(4.5).cookingTime(750.0)
 	//Zinc = Create
 	event.smelting('create:zinc_block', 'create:raw_zinc_block').xp(4.5).cookingTime(1500.0)
 	event.blasting('create:zinc_block', 'create:raw_zinc_block').xp(4.5).cookingTime(750.0)
@@ -165,6 +168,7 @@ onEvent('recipes', event => {
 	event.recipes.createPressing('techreborn:zinc_plate', 'create:zinc_ingot')
 	event.remove({input: 'create:zinc_ingot', output: '9x create:zinc_nugget'})
 	event.shapeless('9x create:zinc_nugget', 'create:zinc_ingot')
+	event.remove({output: 'techreborn:zinc_storage_block', input: '9x create:zinc_ingot'})
 	//tin = modern_industrialization
 	event.replaceInput('indrev:tin_dust', '#c:tin_dusts')
 	event.replaceOutput('indrev:tin_dust', '#c:tin_dusts')
@@ -334,6 +338,12 @@ onEvent('recipes', event => {
 		"count": 9
 		}]
 	})
+	event.remove({input: '9x modern_industrialization:tin_ingot', output: 'techreborn:tin_storage_block'})
+	event.remove({input: '9x modern_industrialization:tin_ingot', output: 'indrev:tin_block'})
+	event.remove({input: '9x modern_industrialization:tin_ingot', output: 'mythicmetals:tin_block'})
+	event.remove({input: '9x techreborn:raw_tin', output: 'modern_industrialization:raw_tin_block'})
+	event.remove({input: '9x techreborn:raw_tin', output: 'indrev:raw_tin_block'})
+	event.remove({input: '9x techreborn:raw_tin', output: 'mythicmetals:raw_tin_block'})
 	//Steel = modern_industrialization
 	event.shapeless('techreborn:steel_storage_block', 'modern_industrialization:steel_block')
 	event.shapeless('modern_industrialization:steel_block', 'indrev:steel_block')
@@ -341,7 +351,6 @@ onEvent('recipes', event => {
 	event.shapeless('mythicmetals:steel_block', 'enriched:steel_block')
 	event.shapeless('enriched:steel_block', 'techreborn:steel_storage_block')
 	event.remove({output: 'mythicmetals:steel_ingot', type: 'alloy_forgery_forging'})
-	event.shapeless('enriched:steel_block', '9x modern_industrialization:steel_ingot')
 	event.replaceInput('techreborn:steel_ingot', '#c:steel_ingots')
 	event.remove({input: 'indrev:steel_ingot'})
 	event.remove({input: 'mythicmetals:steel_ingot'})
@@ -430,6 +439,9 @@ onEvent('recipes', event => {
 	"processTime": 600
 	})
 	event.remove({output: 'indrev:steel_plate', type: 'indrev:compress'})
+	event.remove({input: '9x modern_industrialization:steel_ingot', output: 'techreborn:steel_storage_block'})
+	event.remove({input: '9x modern_industrialization:steel_ingot', output: 'indrev:steel_block'})
+	event.remove({input: '9x modern_industrialization:steel_ingot', output: 'mythicmetals:steel_block'})
 	//Silver = modern_industrialization, raw = techreborn
 	event.shapeless('techreborn:raw_silver_storage_block', 'indrev:raw_silver_block')
 	event.shapeless('indrev:raw_silver_block', 'mythicmetals:raw_silver_block')
@@ -437,11 +449,8 @@ onEvent('recipes', event => {
 	event.shapeless('modern_industrialization:raw_silver_block', 'bewitchment:raw_silver_block')
 	event.shapeless('bewitchment:raw_silver_block', 'techreborn:raw_silver_storage_block')
 	event.remove({input: '9x bewitchment:raw_silver', output: 'bewitchment:raw_silver_block'})
-	event.shapeless('bewitchment:raw_silver_block', '9x techreborn:raw_silver')
 	event.remove({input: '9x modern_industrialization:raw_silver', output: 'modern_industrialization:raw_silver_block'})
-	event.shapeless('modern_industrialization:raw_silver_block', '9x techreborn:raw_silver')
 	event.remove({input: '9x mythicmetals:raw_silver', output: 'mythicmetals:raw_silver_block'})
-	event.shapeless('mythicmetals:raw_silver_block', '9x techreborn:raw_silver')
 	event.replaceOutput('modern_industrialization:raw_silver', 'techreborn:raw_silver')
 	event.replaceOutput('mythicmetals:raw_silver', 'techreborn:raw_silver')
 	event.replaceOutput('bewitchment:raw_silver', 'techreborn:raw_silver')
@@ -572,6 +581,11 @@ onEvent('recipes', event => {
 	"processTime": 200
  	})
 	event.remove({output: 'indrev:silver_dust'})
+	event.remove({input: '9x techreborn:raw_silver', output: 'indrev:raw_silver_block'})
+	event.remove({input: '9x modern_industrialization:silver_ingot', output: 'techreborn:silver_storage_block'})
+	event.remove({input: '9x modern_industrialization:silver_ingot', output: 'indrev:silver_block'})
+	event.remove({input: '9x modern_industrialization:silver_ingot', output: 'mythicmetals:silver_block'})
+	event.remove({input: '9x modern_industrialization:silver_ingot', output: 'bewitchment:silver_block'})
 	//Bronze = modern_industrialization
 	event.remove({output: 'techreborn:bronze_ingot', type: 'minecraft:crafting_shapeless'})
 	event.remove({output: 'techreborn:bronze_ingot', type: 'minecraft:smelting'})
@@ -584,7 +598,6 @@ onEvent('recipes', event => {
 	event.remove({output: 'mythicmetals:bronze_ingot'})
 	event.remove({input: 'mythicmetals:bronze_ingot'})
 	event.remove({input: 'techreborn:bronze_ingot'})
-	event.shapeless('techreborn:bronze_storage_block', '9x modern_industrialization:bronze_ingot')
 	event.shapeless('9x modern_industrialization:bronze_ingot', 'techreborn:bronze_storage_block')
 	event.shapeless('9x modern_industrialization:bronze_ingot', 'indrev:bronze_block')
 	event.shapeless('9x modern_industrialization:bronze_ingot', 'mythicmetals:bronze_block')
@@ -647,6 +660,8 @@ onEvent('recipes', event => {
 	"processTime": 600
  	})
 	event.remove({output: 'indrev:bronze_plate'})
+	event.remove({input: 'modern_industrialization:bronze_ingot', output: 'indrev:bronze_block'})
+	event.remove({input: 'modern_industrialization:bronze_ingot', output: 'mythicmetals:bronze_block'})
 	//Brass = Create
 	event.remove({output: 'techreborn:brass_ingot', input: '9x techreborn:brass_nugget'})
 	event.remove({output: 'techreborn:brass_ingot', type: 'minecraft:smelting'})
@@ -666,7 +681,6 @@ onEvent('recipes', event => {
 		B: 'create:brass_ingot',
 		A: 'create:brass_nugget'
 	})
-	event.shapeless('techreborn:brass_storage_block', '9x create:brass_ingot')
 	event.remove({input: 'techreborn:brass_ingot', output: 'techreborn:brass_storage_block'})
 	event.remove({input: 'techreborn:brass_ingot', output: '9x techreborn:brass_nugget'})
   	event.shapeless('create:brass_block', 'techreborn:brass_storage_block')
@@ -780,6 +794,44 @@ onEvent('recipes', event => {
 			"count": 1
 		  }
 		]
-	  })
+	})
+	//invar = modern_industrialization
+	event.remove({output: 'techreborn:invar_ingot'})
+	event.remove({input: 'techreborn:invar_ingot'})
+	event.custom({
+		"type": "techreborn:alloy_smelter",
+		"power": 6,
+		"time": 200,
+		"ingredients": [
+		  {
+			"item": "modern_industrialization:nickel_ingot"
+		  },
+		  {
+			"item": "minecraft:iron_ingot",
+			"count": 2
+		  }
+		],
+		"results": [
+		  {
+			"item": "modern_industrialization:invar_ingot",
+			"count": 3
+		  }
+		]
+	})
+	event.recipes.createMixing('2x modern_industrialization:invar_ingot', [
+		'modern_industrialization:nickel_ingot',
+		'2x minecraft:iron_ingot'
+	]).heated()
+	event.shapeless('9x modern_industrialization:invar_ingot', 'techreborn:invar_block')
+	event.shapeless('techreborn:invar_block', '9x modern_industrialization:invar_ingot')
+	event.remove({output: 'techreborn:invar_plate', type: 'create:pressing'})
+	event.replaceOutput('techreborn:invar_plate', 'modern_industrialization:invar_plate')
+	event.replaceInput('techreborn:invar_plate', 'modern_industrialization:invar_input')
+	event.replaceOutput('techreborn:invar_nugget', 'modern_industrialization:invar_nugget')
+	event.remove({output: '4x techreborn:invar_small_dust', type: 'minecraft:crafting_shapeless'})
+	event.remove({input: '4x techreborn:invar_small_dust', type: 'minecraft:crafting_shapeless'})
+	event.remove({output: 'techreborn:invar_dust', type: 'create:crushing'})
+	event.replaceOutput('techreborn:invar_dust', 'modern_industrialization:invar_dust')
+	event.replaceOutput('techreborn:invar_small_dust', 'modern_industrialization:invar_tiny_dust')
   }
 )

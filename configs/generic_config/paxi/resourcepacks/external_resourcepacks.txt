@@ -1,7 +1,12 @@
-//This file exists to avoid legal disputes //
+//////////////////////////////////////////////
+// This file exists to avoid legal disputes //
+//////////////////////////////////////////////
 
-External Resourcepacks:
-Enhanced Audio-r4.zip (Edited)
-realistic-explosions.zip
+# External Resourcepacks:[
+# - Enhanced Audio-r4.zip (Edited)
+# - realistic-explosions.zip
+#]
 
-All other presented resourcepacks are mine and therefore follow the license!
+//////////////////////////////////////////////////////////////////////////////////
+// All other presented resourcepacks are mine and therefore follow the license! //
+//////////////////////////////////////////////////////////////////////////////////

@@ -89,4 +89,12 @@ onEvent('tags.items', event => {
 	event.remove('c:brass_nuggets', 'techreborn:brass_nugget')
 	event.remove('c:brass_plates', 'techreborn:brass_plate')
 	event.add('c:brass_plates', 'create:brass_sheet')
+	//invar = modern_industrialization ^_^
+	event.remove('c:invar_ingots', 'techreborn:invar_ingot')
+	event.add('minecraft:beacon_payment_items', 'modern_industrialization:invar_ingot')
+	event.remove('c:invar_dusts', 'techreborn:invar_dust')
+	event.remove('c:invar_nuggets', 'techreborn:invar_nugget')
+	event.remove('c:invar_small_dusts', 'techreborn:invar_small_dust')
+	event.remove('c:invar_plates', 'techreborn:invar_plate')
+	event.add('c:invar_small_dusts', 'modern_industrialization:invar_tiny_dust')
 })

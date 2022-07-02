@@ -2908,7 +2908,12 @@ onEvent('rei.hide.items', event => {
 	'techreborn:brass_plate',
 	'architects_palette:nether_brass_ingot',
 	'architects_palette:nether_brass_blend',
-	'architects_palette:nether_brass_nugget'
+	'architects_palette:nether_brass_nugget',
+	'techreborn:invar_plate',
+	'techreborn:invar_dust',
+	'techreborn:invar_ingot',
+	'techreborn:invar_small_dust',
+	'techreborn:invar_nugget'
 	]
    )
  }

@@ -1,10 +1,2 @@
-Do recipes properly and with create compat
 shaders support
-remove ores from new mods
-Fix raw block recipes like wtf
-add machine processing for mythicmetals
-vanilla raw block recipes have doubles for some reason
 Fix shader prairie grass
-copper = modern_industrialization
-
-All items to fix are in chest but not all mythicmetals

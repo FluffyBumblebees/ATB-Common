@@ -31,7 +31,6 @@ Better End by paulevs
 Better FPS - Render Distance by someaddon
 Better Nether by paulevs
 Better Third Person by Socolio
-Bewitchment by MoriyaShiine
 Beyond Earth by mrscauthd
 Biome Makeover by Lemonszz
 Biome Particle Weather by shadowmaster404
@@ -109,7 +108,6 @@ Excavated Variants by lukebemish
 Expanded Storage by 3llemes
 Explorer's Compass by Chaosyr
 Extra Generators by D4rkness_King
-ExtraTNT by Flytre7
 Experience Bug Fix by MacTso
 Fabric API by modmuss50
 Fabric Language Kotlin by modmuss50
@@ -118,12 +116,10 @@ Falling Leaves by RandomMcSomethin
 Falling Tree by RakSrinaNa
 Fancy Menu by Keksuccino
 Farmer's Delight by NewHoryzon
-Fast Load by BumbleSoftware
 Fast open links and folders by altrisi
 Feature NBT Deadlock Be Gone by telepathicgrunt
 FerriteCore by malte0811
 Floral Flair by ibex80
-Flytre Lib by Flytre7
 Forge Config Api Port by Fuzs_
 Forget Me Chunk by BreadLoaf
 Friends & Foes by faboslav
@@ -171,7 +167,6 @@ Macaw's Trapdoors by sketch_macaw
 Macaw's Windows by sketch_macaw
 Megane by badasintended
 Memory Leak Fix by fxmorin
-Mining Gadgets by Direwolf20
 Missing Wilds by UltrusBot
 Mo' Colours by GabrielHOlv
 Mo' Glass by alexander9892

@@ -74,7 +74,7 @@ globalExecutorParallelism = "default"
 [threadedWorldGen]
 	# (Default: true) Whether to allow feature generation (world decorations like trees, ores and etc.) run in parallel
 	# (may cause incompatibility with other mods)
-	allowThreadedFeatures = "default"
+	allowThreadedFeatures = false
 	# (Default: true) Whether to allow reducing lock radius 
 	# (may cause incompatibility with other mods)
 	reduceLockRadius = "default"
@@ -98,4 +98,3 @@ globalExecutorParallelism = "default"
 		enabled = "default"
 		# (Default: 128) Max render distance allowed in game options
 		maxViewDistance = 64
-

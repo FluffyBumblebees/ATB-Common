@@ -6,15 +6,17 @@ Advanced Reborn by pitan76
 Advancement Debug by thetechnici4n
 Advancement Plaques by Grend_G
 AE Additions by MasterYodAT9G
-AE2Things by ProjectET
+AE2: Additional Opportunity by DomamaN202
+AE2 Things by ProjectET
+AE2: Wireless Terminals by Mari_023
 Alloy Forgery by LordDeatHunter
 Alternate Current by SpaceWalkerRS
 Ambient Sounds by CreativeMD
-Applied Botanics by ramidzkh
 Applied Energistics 2 by TeamAppliedEnergistics
 Apple Skin by Squeek502
 Aquatic Torches by realmayus
 Architectury by shedaniel
+Architect's Palette by slomax907
 Artifality by PinkGoosik
 AttributeFix by Flytre7
 Axolotl Item Fix by colderlavalamp
@@ -23,17 +25,21 @@ Balm by BlayTheNinth
 BcLib by paulevs
 Beehive Tooltips by EDToaster
 Beenfo by Giselbaer
+Better Animal Models by cybercat5555
 Better Biome Blend by FionaTheMortal
 Better End by paulevs
 Better FPS - Render Distance by someaddon
 Better Nether by paulevs
 Better Third Person by Socolio
+Bewitchment by MoriyaShiine
+Beyond Earth by mrscauthd
 Biome Makeover by Lemonszz
 Biome Particle Weather by shadowmaster404
 Blast by doctor4t
 Blockus by Brandcraft_
 Boat Container by KxmischesDomi
 Bookshelf by DarkhaxDev
+Bosses of Mass Destruction by Barribob
 Botania by williewillus
 Bow Infinity Fix by Parker8283
 Break Progress by haykam
@@ -44,13 +50,17 @@ Carpet by gnembon
 Carpet Extra by gnembon
 Carrier by GabrielHOIv
 Cave Enhancements by exdrill_10
+ComputerCraft: Restitched by merithtk
 Charm by svenhjol
 Chipped by grimbop
 Chisel and Bits by OrionOnline
 Chisel Refabricated by Slaincow
+Cinderscapes by TerraformersMC
 Client Tweaks by BlayTheNinth
+Clumps by Jaredlll08
 Cloth Config by shedaniel
 Columns by haykam
+Companion by Snownee_
 Consistency+ by Cart3r1234
 Continuity by Pepper_Bell
 Craft Presence by CDAGaming_
@@ -61,15 +71,17 @@ Create Deco by Alphamode & talrey
 Create Plus by JieningYu
 CreativeCore by CreativeMD
 Creeper AI Updated by srgnis
-Creeper Overhaul oosh_7889
+Creeper Overhaul by oosh_7889
 Croptopia by thethonk
 Croptopia's Chocolaterie by slomax907
 Cull Less Leaves by XanderIsDev
 Custom FOV by TheIllusiveC4
 Dark Enchanting by ffrannny
 Dark Loading Screen by Neecko5b84
+Dark Utilities by DarkhaxDev
 Dawn API by Hugman_76
 Decorative Blocks by stohun
+Deep mob learning by NathanPB
 Deepslate Cutting by NoComment1105
 Dusk by someaddon
 Dustrial Decor by BlueDuckYT
@@ -84,6 +96,8 @@ Eden Ring by paulevs
 Effective by doctor4t
 Eldritch Mobs by cyborg_pigeon
 Ellemes' Container Library by 3llemes
+Enchanted Vertical Slabs by Enchanted_Games
+Enchanted Vertical Slabs: Better End by Enchanted_Games
 Enchantment Descriptions by DarkhaxDev
 Enderscape by bunten2005
 Enhanced Block Entities by FoundationGames
@@ -94,11 +108,12 @@ Entity Culling by tr9zw
 Excavated Variants by lukebemish
 Expanded Storage by 3llemes
 Explorer's Compass by Chaosyr
-Extra Alchemy by zabi94
 Extra Generators by D4rkness_King
+ExtraTNT by Flytre7
 Experience Bug Fix by MacTso
 Fabric API by modmuss50
 Fabric Language Kotlin by modmuss50
+Factory Blocks by Slaincow
 Falling Leaves by RandomMcSomethin
 Falling Tree by RakSrinaNa
 Fancy Menu by Keksuccino
@@ -108,6 +123,7 @@ Fast open links and folders by altrisi
 Feature NBT Deadlock Be Gone by telepathicgrunt
 FerriteCore by malte0811
 Floral Flair by ibex80
+Flytre Lib by Flytre7
 Forge Config Api Port by Fuzs_
 Forget Me Chunk by BreadLoaf
 Friends & Foes by faboslav
@@ -136,11 +152,14 @@ Klee Slabs by BlayTheNinth
 Konkrete by Keksuccino
 Krypton by tuxed
 KubeJS by LatvianModder
+KubeJS Create by LatvianModder
 LazyDFU by tuxed
 Library Ferret by jtl_elisa
 Light Overlay by shedaniel
 Lithium by jellysquid3_
+Little Ants by mastrocaleb
 Login Protection by someaddon
+Luggage by GizmoTheMoonPig
 Macaw's Bridges by sketch_macaw
 Macaw's Doors by sketch_macaw
 Macaw's Fences & Walls by sketch_macaw
@@ -163,6 +182,7 @@ Modern Industrialization by thetechnici4n
 Mod Menu by ProspectorDev
 More Babies by mammut53m
 More Geodes by TheDeathlyCow
+More Tags by gudenau
 More Villagers by SameDifferent
 Music Duration Reducer by LudoCrypt
 Mythic Metals by Noaaan
@@ -179,24 +199,28 @@ Paginated Advancements by DaFuqsy
 Paradise Lost by ImmortalDevs
 Patchouli by williewillus
 Paxi by YUNGNICKYUNG
+Pehkui by Virtuoel
 Physics by haubna
 Pick Up Notifier by tr9zw
 Planet B by Ayutac
 Plushie by Link_911
 Polymorph by TheIllusiveC4
+Powah by thetechnic4n
 Presence Footsteps by S0llace
 Probably Chests by TheArcanePigeon
 Promenade by Hugman_76
 Purpeille by acikek
 Puzzles Lib by fuzs_
+Quarry Reborn by TED_inc
 Raised by yurisuika
 Recipe Cache by biom4st3r1
 Red Bits by magistermaks
 Reese's Sodium Options by FlashyReese
 Repurposed Structures by telepathicgrunt
-Respawnable Pet's by MoriyaShiine
+Respawnable Pets by MoriyaShiine
 Rhino by LatvianModder
 Roughly Enough Items by shedaniel
+Roughly Enough Resources by theorbagain
 Rusted Iron by Lemonszz
 ServerCore by Wesley8081
 Skip Transitions by TrufflezMC
@@ -205,13 +229,15 @@ Snow! Real Magic! by Snownee_
 Sodium by jellysquid3_
 Sodium Extra by FlashyReese
 Sound Physics by henkelmax
-Space Dimensions by captaintenneal81
+Stained Trees by BumbleSoftware
+St'ructure Tools by ProjectET
 Starlight by Spottedstar
 Stoneholm by TheGrimsey
 Tech Reborn by modmuss50
 Temp Charm Fix by Linguardium
 Terrablender by TheAdubbz
 Terrarian Slimes by D4rkness_King
+Terrestria by TerraformersMC
 Thatched by lilypuree
 The Bumblezone by telepathicgrunt
 The Graveyard by finallion_13
@@ -219,31 +245,26 @@ The Graveyard Biomes by finallion_13
 Tie Fix by j_t_a_i
 Toast Block by Linguardium
 Tool Tip Fix by Kyrptonaught
-Totally Lit by realguyman0
 Travelers Titles by YUNGNICKYUNG
+Traverse by TerraformersMC
 Trinkets by EmilyPloszaj
 Twigs by ninnih_
 Unearthed by lilypuree
 Vein Mining by TheIllusiveC4
-Very Many Players by ishland
+Villager Hats by PinkGoosik
 Visuality by PinkGoosik
 Visual Workbench by Fuzs_
 Waystones by BlayTheNinth
 Wild Life by chirpycricket__
-Wilder World by KaloyanKYS
+Wired Redstone by Kneelawk
 Wireless Networks by GabrielHOlv
 WMITAF by ShakesterNano
 WTHIT by badasintended
 You're in grave danger by b1n_ry
 You're options shall be respected by Shedaniel
 Yung's Api by YUNGNICKYUNG
-Yung's Better Desert Temples by YUNGNICKYUNG
-Yung's Better Dungeons by YUNGNICKYUNG
-Yung's Better Mine Shafts by YUNGNICKYUNG
-Yung's Better Strongholds by YUNGNICKYUNG
-Yung's Better Witch Huts by YUNGNICKYUNG
-Yung's Bridges by YUNGNICKYUNG
-Yung's Extras by YUNGNICKYUNG
 Complementary Shaders by EminGTR
 Enhanced Audio by Frawzy
 Realistic Explosions by Narri
+AE2 Emissives by Sea Kerman
+LUM by Paulevs

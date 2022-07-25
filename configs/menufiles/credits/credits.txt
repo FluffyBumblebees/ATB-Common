@@ -1,4 +1,4 @@
-3D Skin Layers by tr9zw
+33D Skin Layers by tr9zw
 Additional Additions by dqu1jjj
 Adorn by Juicebus
 Advanced Netherite by AutovwLive
@@ -238,12 +238,14 @@ The Bumblezone by telepathicgrunt
 The Graveyard by finallion_13
 The Graveyard Biomes by finallion_13
 Tie Fix by j_t_a_i
+Tinkers Construct by SlimeKnight
 Toast Block by Linguardium
 Tool Tip Fix by Kyrptonaught
 Travelers Titles by YUNGNICKYUNG
 Traverse by TerraformersMC
 Trinkets by EmilyPloszaj
 Twigs by ninnih_
+Twilight Forest by TeamTwilight
 Unearthed by lilypuree
 Vein Mining by TheIllusiveC4
 Villager Hats by PinkGoosik

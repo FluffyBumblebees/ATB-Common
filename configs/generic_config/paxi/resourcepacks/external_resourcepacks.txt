@@ -3,7 +3,6 @@
 //////////////////////////////////////////////
 
 # External Resourcepacks:[
-# - Enhanced Audio-r4.zip (Edited)
 # - realistic-explosions.zip
 # ]
 

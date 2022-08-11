@@ -5,15 +5,15 @@ globalExecutorParallelism = "default"
 [noTickViewDistance]
 	# (Default: true) Whether to use compatibility mode to send chunks 
 	#  This may fix some mod compatibility issues
-	compatibilityMode = "default"
+	compatibilityMode = false
 	# (Default: false) Whether to ensure correct chunks within normal render distance 
 	#  This will send chunks twice increasing network load
 	ensureChunkCorrectness = "default"
 	# (Default: 12) No-tick view distance updates per tick 
 	#  Lower this for a better latency and higher this for a faster loading
-	updatesPerTick = "default"
+	updatesPerTick = 9
 	# (Default: true) Whether to enable no-tick view distance
-	enabled = true
+	enabled = "default"
 
 [generalOptimizations]
 	# (Default: true) Whether to enable mid-tick chunk tasks  
@@ -56,7 +56,7 @@ globalExecutorParallelism = "default"
 	# as this option only affects newly stored chunks 
 	# Invalid values will fall back to vanilla default
 	# 
-	chunkStreamVersion = 3
+	chunkStreamVersion = -1
 	# (Default: false) Whether to use the optimized implementation of IO system
 	replaceImpl = true
 	# (Default: 1536) Soft limit for io worker nbt cache

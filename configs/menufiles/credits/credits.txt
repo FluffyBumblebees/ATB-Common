@@ -1,4 +1,5 @@
 3D Skin Layers by tr9zw
+Ad Astra! by Alex Nijjar
 Additional Additions by dqu1jjj
 Adorn by Juicebus
 Advanced Netherite by AutovwLive
@@ -31,7 +32,6 @@ Better End by paulevs
 Better Nether by paulevs
 Better Sodium Video Settings Button by LimeShulkerBox
 Better Third Person by Socolio
-Beyond Earth by mrscauthd
 Biome Makeover by Lemonszz
 Blast by doctor4t
 Blockus by Brandcraft_
@@ -60,6 +60,7 @@ Columns by haykam
 Companion by Snownee_
 Consistency+ by Cart3r1234
 Continuity by Pepper_Bell
+Cooking for Blockheads by BlayTheNinth
 Craft Presence by CDAGaming_
 Crawl by fewizz_
 Create by Fabricators of Create
@@ -123,6 +124,7 @@ Health Care by samo_lego
 Hyle by lilypuree
 Iceberg by Grend_G
 Illuminations by doctor4t
+Improved End by RupyberStudios
 Indium by comp500
 Industrial Revolution by GabrielHOlv
 Infusion Table by jptrzy
@@ -145,6 +147,7 @@ LazyDFU by tuxed
 Library Ferret by jtl_elisa
 Light Overlay by shedaniel
 Lithium by jellysquid3_
+Little Ants by mastrocaleb
 Luggage by GizmoTheMoonPig
 Macaw's Bridges by sketch_macaw
 Macaw's Doors by sketch_macaw
@@ -181,6 +184,7 @@ Nether Portal Fix by BlayTheNinth
 Not Enough Crashes by NatanFudge
 Oh The Biomes You'll Go by AOCAWOL
 On Soul Fire by MoriyaShiine
+Overweight Farming by agentmhkskg
 Owo Lib by gliscowo
 Oxidized by safrodev
 Packet Size Doubler by THESIIG
@@ -198,6 +202,7 @@ Presence Footsteps by S0llace
 Promenade by Hugman_76
 Purpeille by acikek
 Puzzles Lib by fuzs_
+Quark Crystals by Fluffy_Bumblebee
 Quarry Reborn by TED_inc
 Raised by yurisuika
 Recipe Cache by biom4st3r1

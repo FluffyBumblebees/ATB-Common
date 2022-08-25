@@ -21,6 +21,7 @@ Architectury by shedaniel
 Architect's Palette by slomax907
 Artifality by PinkGoosik
 AttributeFix by Flytre7
+Audio Engine Tweaks by The__Matty
 Axolotl Item Fix by colderlavalamp
 Badpackets by badasintended
 Balm by BlayTheNinth
@@ -113,6 +114,7 @@ Farming for blockheads by BlayTheNinth
 Fast open links and folders by altrisi
 Feature NBT Deadlock Be Gone by telepathicgrunt
 FerriteCore by malte0811
+Fey Tweaks by Feytox
 Floral Flair by ibex80
 Forge Config Api Port by Fuzs_
 Forget Me Chunk by BreadLoaf
@@ -163,6 +165,7 @@ Macaw's Windows by sketch_macaw
 Megane by badasintended
 Memory Leak Fix by fxmorin
 Mining Gadgets by Direwolf20
+Mipmaplevel and Language Fix by KingContaria
 Missing Wilds by UltrusBot
 MmmMmmMmmMmm by MehVahdJukaar
 Mo' Colours by GabrielHOlv
@@ -220,6 +223,7 @@ Roughly Enough Resources by theorbagain
 Rusted Iron by Lemonszz
 ServerCore by Wesley8081
 Smoke Suppression by supersaiyansubtlety
+Smooth Boot by UltimateBoomer
 Snow! Real Magic! by Snownee_
 Sodium by jellysquid3_
 Sodium Extra by FlashyReese
@@ -240,6 +244,7 @@ Tie Fix by j_t_a_i
 Trap Expansion by DomamaN202
 Tinkers Construct by SlimeKnight
 Toast Block by Linguardium
+Too Many Players by Feyt0x
 Tool Tip Fix by Kyrptonaught
 Traverse by TerraformersMC
 Trinkets by EmilyPloszaj
@@ -251,12 +256,14 @@ Villager Hats by PinkGoosik
 Visuality by PinkGoosik
 Visual Workbench by Fuzs_
 Waystones by BlayTheNinth
+Very Many Player by ishlandmc
 Wild Backport by blackgear27
 Wild Life by chirpycricket__
 Wired Redstone by Kneelawk
 Wireless Networks by GabrielHOlv
 WMITAF by ShakesterNano
 WTHIT by badasintended
+WYML by Official_CreeperHost
 XP Obelisk by Meridanus
 You're in grave danger by b1n_ry
 You're options shall be respected by Shedaniel

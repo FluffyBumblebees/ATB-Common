@@ -14,6 +14,7 @@ AE2: Wireless Terminals by Mari_023
 Alloy Forgery by LordDeatHunter
 Alternate Current by SpaceWalkerRS
 Ambient Sounds by CreativeMD
+Another Furniture by Starfish_Studios
 Applied Energistics 2 by TeamAppliedEnergistics
 Apple Skin by Squeek502
 Aquatic Torches by realmayus
@@ -124,7 +125,6 @@ Gear Reborn by loleq21
 Gecko Lib by ThanosGecko
 Gotta Go Fast by PixelAgent007
 Guard Villagers by MrSterner_
-Health Care by samo_lego
 Hyle by lilypuree
 Iceberg by Grend_G
 Illuminations by doctor4t
@@ -223,6 +223,7 @@ Roughly Enough Items by shedaniel
 Roughly Enough Resources by theorbagain
 Rusted Iron by Lemonszz
 ServerCore by Wesley8081
+Simple Animated Guns by elidhanmc
 Smoke Suppression by supersaiyansubtlety
 Smooth Boot by UltimateBoomer
 Snow! Real Magic! by Snownee_
@@ -245,7 +246,6 @@ Tie Fix by j_t_a_i
 Trap Expansion by DomamaN202
 Tinkers Construct by SlimeKnight
 Toast Block by Linguardium
-Too Many Players by Feyt0x
 Tool Tip Fix by Kyrptonaught
 Traverse by TerraformersMC
 Trinkets by EmilyPloszaj

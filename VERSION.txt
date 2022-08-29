@@ -2,5 +2,5 @@
 // Fabric Loader: 0.14.9 //
 ///////////////////////////
 
-Client Package:https://www.dropbox.com/s/n19h1wjwizdabmh/All%20The%20Blocks%20%28Modpack.zip?dl=0
-Server Package: https://www.dropbox.com/s/l7qpvxz0y2494dh/All%20the%20Blocks%20%28Server%29.zip?dl=0
+Client Package: https://www.dropbox.com/s/r31zcyjd3tkjaeu/All%20The%20Blocks%20%28Modpack.zip?dl=0
+Server Package: https://www.dropbox.com/s/lmikkuwjl4qyu3g/All%20the%20Blocks%20%28Server%29.zip?dl=0

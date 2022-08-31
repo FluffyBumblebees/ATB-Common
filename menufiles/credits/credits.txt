@@ -8,7 +8,6 @@ Advanced Reborn by pitan76
 Advancement Debug by thetechnici4n
 Advancement Plaques by Grend_G
 AE Additions by MasterYodAT9G
-AE2: Additional Opportunity by DomamaN202
 AE2 Things by ProjectET
 AE2: Wireless Terminals by Mari_023
 Alloy Forgery by LordDeatHunter
@@ -50,7 +49,7 @@ Carpet by gnembon
 Carpet Extra by gnembon
 Carrier by GabrielHOIv
 Compact Machines by AlphaMode
-ComputerCraft: Restitched by merithtk
+Coral Reef by primetoxinz
 Coxinha Utilities by Luligabi12
 Charm by svenhjol
 Chipped by grimbop
@@ -71,9 +70,9 @@ Create Crafts and Additions by Alphamode & MRHMiner
 Create Deco by Alphamode & talrey
 Create Plus by JieningYu
 CreativeCore by CreativeMD
-Creeper Safety by Fluffy Bumblebee
 Creeper AI Updated by srgnis
 Creeper Overhaul by oosh_7889
+Creeper Safety by Fluffy Bumblebee
 Croptopia by thethonk
 Croptopia's Chocolaterie by slomax907
 Custom FOV by TheIllusiveC4
@@ -83,7 +82,6 @@ Dark Utilities by DarkhaxDev
 Dawn API by Hugman_76
 Decorative Blocks by stohun
 Deep mob learning by NathanPB
-Dusk by someaddon
 Dustrial Decor by BlueDuckYT
 Dynamic FPS by juiland665
 Dynamic Surroundings by Orecruncher
@@ -142,7 +140,6 @@ Journey Map by techbrew
 Just Enough Keys by starmun
 Kibe by D4rkness_King
 Kiwi by Snownee_
-Klee Slabs by BlayTheNinth
 Konkrete by Keksuccino
 Krypton by tuxed
 KubeJS by LatvianModder
@@ -264,7 +261,6 @@ Wired Redstone by Kneelawk
 Wireless Networks by GabrielHOlv
 WMITAF by ShakesterNano
 WTHIT by badasintended
-WYML by Official_CreeperHost
 XP Obelisk by Meridanus
 You're in grave danger by b1n_ry
 You're options shall be respected by Shedaniel

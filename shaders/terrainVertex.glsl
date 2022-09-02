@@ -1,4 +1,7 @@
 #ifdef COMPBR
+if (mc_Entity.x == 20000) { // End Ore
+	specR = 12.065;
+}
 if (mc_Entity.x == 12345) // Lime Glowstone
     #ifdef NOISY_TEXTURES
         noiseVarying = 1.0,
@@ -339,5 +342,4 @@ if (mc_Entity.x == 12376) // Low Bright Emissive
     lmCoord.x = 0.87, specB = 3.001, mat = 162.0,
     //mipmapDisabling = 1.0,
     color.rgb = vec3(0.75, 0.75, 0.75);
-
 #endif

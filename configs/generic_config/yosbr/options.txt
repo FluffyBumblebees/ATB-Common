@@ -20,8 +20,8 @@ toggleCrouch:false
 toggleSprint:false
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
-mouseSensitivity:0.627591329225352
-fov:0.5
+mouseSensitivity:0.6267605633802817
+fov:0.0
 screenEffectScale:1.0
 fovEffectScale:1.0
 gamma:0.5054302376760563
@@ -33,7 +33,7 @@ particles:1
 maxFps:260
 difficulty:2
 graphicsMode:1
-ao:1
+ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:1
 renderClouds:fast
@@ -48,7 +48,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.8045774647887324
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
@@ -58,13 +58,13 @@ chatDelay:0.0
 chatHeightUnfocused:0.44366195797920227
 chatScale:1.0
 chatWidth:0.4295774647887324
-mipmapLevels:0
+mipmapLevels:1
 useNativeTransport:true
 mainHand:right
 attackIndicator:1
 narrator:0
 tutorialStep:none
-mouseWheelSensitivity:1.437594636038957
+mouseWheelSensitivity:1.3608266848668966
 rawMouseInput:true
 glDebugVerbosity:1
 skipMultiplayerWarning:true
@@ -124,6 +124,7 @@ key_key.ae2.wireless_pattern_encoding_terminal:key.keyboard.unknown
 key_key.ae2.wireless_pattern_access_terminal:key.keyboard.unknown
 key_key.ae2.ae2wtlib_restock:key.keyboard.unknown
 key_key.ae2.ae2wtlib_magnet:key.keyboard.unknown
+key_key.anim_guns.reloadtoggle:key.keyboard.r
 key_key.botania_corporea_request:key.keyboard.c
 key_key.buildinggadgets.settings_menu:key.keyboard.g
 key_key.buildinggadgets.range:key.keyboard.r
@@ -133,7 +134,7 @@ key_key.buildinggadgets.fuzzy:key.keyboard.unknown
 key_key.buildinggadgets.connected_area:key.keyboard.unknown
 key_key.buildinggadgets.rotate_mirror:key.keyboard.unknown
 key_key.buildinggadgets.material_list:key.keyboard.m
-key_carrier.key:key.keyboard.left.control
+key_carrier.key:key.keyboard.left.shift
 key_key.charm.open_atlas:key.keyboard.unknown
 key_key.clienttweaks.hideOffhandItem:key.keyboard.unknown
 key_key.clienttweaks.disableStepAssist:key.keyboard.unknown
@@ -147,7 +148,10 @@ key_dsurround.text.keybind.individualSoundConfig:key.keyboard.semicolon
 key_dsurround.text.keybind.diagnosticHud:key.keyboard.unknown
 key_key.craftpresence.config_keycode.name:key.keyboard.grave.accent
 key_key.entityculling.toggle:key.keyboard.unknown
+key_key.feytweaks.openConfigKey:key.keyboard.unknown
 key_key.gearreborn.toggle_nv:key.keyboard.n
+key_key.identity:key.keyboard.k
+key_key.identity_ability:key.keyboard.comma
 key_key.indrev.modular:key.keyboard.period
 key_key.indrev.gamer_axe_toggle:key.keyboard.g
 key_key.inmis.open_backpack:key.keyboard.b
@@ -179,6 +183,7 @@ key_keybind.luggage.whistle:key.keyboard.grave.accent
 key_mininggadgets.text.open_gui:key.keyboard.m
 key_key.modern_industrialization.activate:key.keyboard.o
 key_key.modmenu.open_menu:key.keyboard.m
+key_key.pfm.toiletUse:key.keyboard.u
 key_presencefootsteps.settings.key:key.keyboard.p
 key_raised.down:key.keyboard.unknown
 key_raised.up:key.keyboard.unknown
@@ -195,10 +200,10 @@ key_key.waila.show_recipe_output:key.keyboard.keypad.4
 key_iris.keybind.reload:key.keyboard.o
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.o
-soundCategory_master:0.50660485
+soundCategory_master:0.50880283
 soundCategory_music:0.25880283
 soundCategory_record:1.0
-soundCategory_weather:1.0
+soundCategory_weather:0.0
 soundCategory_block:1.0
 soundCategory_hostile:1.0
 soundCategory_neutral:1.0

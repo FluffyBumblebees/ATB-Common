@@ -47,6 +47,7 @@ C2ME by Ishland
 Can I mine this block? by shedaniel
 Carpet by gnembon
 Carpet Extra by gnembon
+Carpet Fixes by FX_PR0CESS
 Carrier by GabrielHOIv
 Compact Machines by AlphaMode
 Coral Reef by primetoxinz
@@ -76,12 +77,14 @@ Creeper Safety by Fluffy Bumblebee
 Croptopia by thethonk
 Croptopia's Chocolaterie by slomax907
 Custom FOV by TheIllusiveC4
+Custom Portals by palyon_1
 Dark Enchanting by ffrannny
 Dark Loading Screen by Neecko5b84
 Dark Utilities by DarkhaxDev
 Dawn API by Hugman_76
 Decorative Blocks by stohun
 Deep mob learning by NathanPB
+Dehydration by Globox_Z
 Dustrial Decor by BlueDuckYT
 Dynamic FPS by juiland665
 Dynamic Surroundings by Orecruncher
@@ -100,6 +103,7 @@ Enhanced Visuals by CreativeMD
 Enriched by CamoMano_
 Entity Collision FPS Fix by Corgi_Taco
 Entity Culling by tr9zw
+Environmentz by Globox_Z
 Expanded Storage by 3llemes
 Explorer's Compass by Chaosyr
 Extra Generators by D4rkness_King
@@ -123,8 +127,10 @@ Gear Reborn by loleq21
 Gecko Lib by ThanosGecko
 Gotta Go Fast by PixelAgent007
 Guard Villagers by MrSterner_
+Hephaestus by Alphamode
 Hyle by lilypuree
 Iceberg by Grend_G
+Identity by Draylar1
 Illuminations by doctor4t
 Improved End by RupyberStudios
 Indium by comp500
@@ -209,7 +215,6 @@ Puzzles Lib by fuzs_
 Quark Crystals by Fluffy_Bumblebee
 Quarry Reborn by TED_inc
 Raised by yurisuika
-Recipe Cache by biom4st3r1
 Red Bits by magistermaks
 Reese's Sodium Options by FlashyReese
 Repurposed Structures by telepathicgrunt
@@ -218,11 +223,13 @@ Respawnable Pets by MoriyaShiine
 Rhino by LatvianModder
 Roughly Enough Items by shedaniel
 Roughly Enough Resources by theorbagain
+Roughly Enough Trades by GrigLog
 Rusted Iron by Lemonszz
 ServerCore by Wesley8081
 Simple Animated Guns by elidhanmc
 Smoke Suppression by supersaiyansubtlety
 Smooth Boot by UltimateBoomer
+Smooth Chunks by fl0gic
 Snow! Real Magic! by Snownee_
 Sodium by jellysquid3_
 Sodium Extra by FlashyReese
@@ -241,7 +248,6 @@ The Graveyard by finallion_13
 The Graveyard Biomes by finallion_13
 Tie Fix by j_t_a_i
 Trap Expansion by DomamaN202
-Tinkers Construct by SlimeKnight
 Toast Block by Linguardium
 Tool Tip Fix by Kyrptonaught
 Traverse by TerraformersMC
@@ -253,7 +259,6 @@ Vein Mining by TheIllusiveC4
 Villager Hats by PinkGoosik
 Visuality by PinkGoosik
 Visual Workbench by Fuzs_
-Waystones by BlayTheNinth
 Very Many Player by ishlandmc
 Wild Backport by blackgear27
 Wild Life by chirpycricket__

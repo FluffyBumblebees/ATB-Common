@@ -11,7 +11,7 @@ globalExecutorParallelism = "default"
 	ensureChunkCorrectness = "default"
 	# (Default: 12) No-tick view distance updates per tick 
 	#  Lower this for a better latency and higher this for a faster loading
-	updatesPerTick = 9
+	updatesPerTick = 1
 	# (Default: true) Whether to enable no-tick view distance
 	enabled = "default"
 

@@ -9,10 +9,10 @@
     "allow_direct_memory_access": true,
     "enable_memory_tracing": false,
     "use_advanced_staging_buffers": true,
-    "cpu_render_ahead_limit": 3
+    "cpu_render_ahead_limit": 9
   },
   "performance": {
-    "chunk_builder_threads": 1,
+    "chunk_builder_threads": 2,
     "always_defer_chunk_updates": true,
     "animate_only_visible_textures": true,
     "use_entity_culling": true,

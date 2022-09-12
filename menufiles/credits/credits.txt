@@ -14,11 +14,11 @@ Alloy Forgery by LordDeatHunter
 Alternate Current by SpaceWalkerRS
 Ambient Sounds by CreativeMD
 Another Furniture by Starfish_Studios
-Applied Energistics 2 by TeamAppliedEnergistics
 Apple Skin by Squeek502
+Applied Energistics 2 by TeamAppliedEnergistics
 Aquatic Torches by realmayus
-Architectury by shedaniel
 Architect's Palette by slomax907
+Architectury by shedaniel
 Artifality by PinkGoosik
 AttributeFix by Flytre7
 Audio Engine Tweaks by The__Matty
@@ -49,21 +49,21 @@ Carpet by gnembon
 Carpet Extra by gnembon
 Carpet Fixes by FX_PR0CESS
 Carrier by GabrielHOIv
-Compact Machines by AlphaMode
-Coral Reef by primetoxinz
-Coxinha Utilities by Luligabi12
 Charm by svenhjol
 Chipped by grimbop
 Chisel Refabricated by Slaincow
 Cinderscapes by TerraformersMC
 Client Tweaks by BlayTheNinth
+Cloth Config by shedani
 Clumps by Jaredlll08
-Cloth Config by shedaniel
 Columns by haykam
+Compact Machines by AlphaMode
 Companion by Snownee_
 Consistency+ by Cart3r1234
 Continuity by Pepper_Bell
 Cooking for Blockheads by BlayTheNinth
+Coral Reef by primetoxinz
+Coxinha Utilities by Luligabi12el
 Craft Presence by CDAGaming_
 Crawl by fewizz_
 Create by Fabricators of Create
@@ -128,6 +128,7 @@ Gecko Lib by ThanosGecko
 Gotta Go Fast by PixelAgent007
 Guard Villagers by MrSterner_
 Hephaestus by Alphamode
+Hydrogen by jellysquid3_
 Hyle by lilypuree
 Iceberg by Grend_G
 Identity by Draylar1
@@ -168,7 +169,7 @@ Macaw's Trapdoors by sketch_macaw
 Macaw's Windows by sketch_macaw
 Megane by badasintended
 Memory Leak Fix by fxmorin
-Mining Gadgets by Direwolf20
+Mining Gadgets by Alphamode & Direwolf20
 Mipmaplevel and Language Fix by KingContaria
 Missing Wilds by UltrusBot
 MmmMmmMmmMmm by MehVahdJukaar
@@ -229,12 +230,12 @@ ServerCore by Wesley8081
 Simple Animated Guns by elidhanmc
 Smoke Suppression by supersaiyansubtlety
 Smooth Boot by UltimateBoomer
-Smooth Chunks by fl0gic
+Smooth Chunk by fl0gic
 Snow! Real Magic! by Snownee_
 Sodium by jellysquid3_
 Sodium Extra by FlashyReese
 Sound Physics by henkelmax
-Stained Trees by BumbleSoftware
+Stained Trees by Fluffy_Bumblebee
 St'ructure Tools by ProjectET
 Starlight by Spottedstar
 Stoneholm by TheGrimsey
@@ -247,9 +248,9 @@ The Bumblezone by telepathicgrunt
 The Graveyard by finallion_13
 The Graveyard Biomes by finallion_13
 Tie Fix by j_t_a_i
-Trap Expansion by DomamaN202
 Toast Block by Linguardium
 Tool Tip Fix by Kyrptonaught
+Trap Expansion by DomamaN202
 Traverse by TerraformersMC
 Trinkets by EmilyPloszaj
 Twigs by ninnih_
@@ -259,7 +260,7 @@ Vein Mining by TheIllusiveC4
 Villager Hats by PinkGoosik
 Visuality by PinkGoosik
 Visual Workbench by Fuzs_
-Very Many Player by ishlandmc
+Very Many Players by ishlandmc
 Wild Backport by blackgear27
 Wild Life by chirpycricket__
 Wired Redstone by Kneelawk
@@ -268,9 +269,8 @@ WMITAF by ShakesterNano
 WTHIT by badasintended
 XP Obelisk by Meridanus
 You're in grave danger by b1n_ry
-You're options shall be respected by Shedaniel
+Your options shall be respected by Shedaniel
 Yung's Api by YUNGNICKYUNG
 Complementary Shaders by EminGTR
 Realistic Explosions by Narri
 AE2 Emissives by Sea Kerman
-LUM by Paulevs

@@ -20,7 +20,7 @@ toggleCrouch:false
 toggleSprint:false
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
-mouseSensitivity:0.5
+mouseSensitivity:0.6267605633802817
 fov:0.0
 screenEffectScale:1.0
 fovEffectScale:1.0
@@ -37,7 +37,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:1
 renderClouds:fast
-resourcePacks:["vanilla","Fabric Mods","continuity/default","Background.zip","Lum-5.0-1.18.2.zip","Panorama.zip","Theinar Language","emissive_AE2.zip","realistic-explosions.zip","illuminations/pixelaccurate","minecraft/supporteatinganimation","illuminations/lowerres"]
+resourcePacks:["vanilla","Fabric Mods","continuity/default","Lum-5.0-1.18.2.zip","Theinar Language","emissive_AE2.zip","realistic-explosions.zip","illuminations/pixelaccurate","minecraft/supporteatinganimation","illuminations/lowerres"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -48,7 +48,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.8045774647887324
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
@@ -200,8 +200,8 @@ key_key.waila.show_recipe_output:key.keyboard.keypad.4
 key_iris.keybind.reload:key.keyboard.o
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.o
-soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_master:0.50880283
+soundCategory_music:0.25880283
 soundCategory_record:1.0
 soundCategory_weather:0.0
 soundCategory_block:1.0

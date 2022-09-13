@@ -22,6 +22,7 @@ Architectury by shedaniel
 Artifality by PinkGoosik
 AttributeFix by Flytre7
 Audio Engine Tweaks by The__Matty
+Auudio by Keksuccino
 Axolotl Item Fix by colderlavalamp
 Badpackets by badasintended
 Balm by BlayTheNinth
@@ -76,15 +77,14 @@ Creeper Overhaul by oosh_7889
 Creeper Safety by Fluffy Bumblebee
 Croptopia by thethonk
 Croptopia's Chocolaterie by slomax907
-Custom FOV by TheIllusiveC4
 Custom Portals by palyon_1
 Dark Enchanting by ffrannny
-Dark Loading Screen by Neecko5b84
 Dark Utilities by DarkhaxDev
 Dawn API by Hugman_76
 Decorative Blocks by stohun
 Deep mob learning by NathanPB
 Dehydration by Globox_Z
+Drippy Loading Screen by Keksuccino
 Dustrial Decor by BlueDuckYT
 Dynamic FPS by juiland665
 Dynamic Surroundings by Orecruncher

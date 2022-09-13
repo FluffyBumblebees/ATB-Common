@@ -1,0 +1,32 @@
+type = hud
+
+customization-meta {
+  randomgroup = 1
+  keepaspectratio = false
+  backgroundimage = menufiles/loading_screen/background.png
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  visible = false
+  action = editlogo
+}
+
+customization {
+  action = editprogressbar
+  barcolor = #3122a0
+}
+
+customization {
+  path = menufiles/title+icon/title.png
+  orientation = top-centered
+  x = 0
+  width = 166
+  action = addtexture
+  actionid = 3bd41f77-592f-44ac-adc3-9f05b0380fd71663108063812
+  y = 15
+  height = 28
+}
+

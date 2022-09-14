@@ -7,6 +7,6 @@ FAPI: 0.58.0
 Modpack Page: https://www.technicpack.net/modpack/the-limit-reborn-1181.1905659
 
 Client Package: https://www.dropbox.com/s/psyeebcj8ouylsp/All%20The%20Blocks%20%28Modpack.zip?dl=0
-Server Package: https://www.dropbox.com/s/zni5vfmqyze66ov/All%20the%20Blocks%20%28Server%29.zip?dl=0
+Server Package: https://www.dropbox.com/s/hrdjwtg8hi5wa4l/All%20the%20Blocks%20%28Server%29.zip?dl=0
 
 Changelog: https://discord.gg/fMSnenNSXM  #modpack-updates

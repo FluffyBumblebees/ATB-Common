@@ -136,7 +136,7 @@ onEvent('recipes', event => {
 	},
 	"processTime": 400
 	})
-	event.recipes.createPressing('ad_astra:desh_plate', 'ad_astra:desh_ingot')
+	event.recipes.createPressing('ad_astra:compressed_desh', 'ad_astra:desh_ingot')
 	event.custom({
 	"type": "modern_industrialization:compressor",
 	"eu": 4,
@@ -145,7 +145,7 @@ onEvent('recipes', event => {
 		"item": "ad_astra:desh_ingot"
 	},
 	"item_outputs": {
-		"item": "ad_astra:desh_plate"
+		"item": "ad_astra:compressed_desh"
 	}})
 	event.custom({
 	"type": "techreborn:compressor",
@@ -157,7 +157,7 @@ onEvent('recipes', event => {
 		}],
 	"results": [
 		{
-		"item": "ad_astra:desh_plate"
+		"item": "ad_astra:compressed_desh"
 		}]
 	})
 	event.remove({output: 'coxinhautilities:copper_ladder'})

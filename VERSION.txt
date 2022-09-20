@@ -1,4 +1,4 @@
-1.7.1a
+1.7.2
 
 MC Version: 1.18.2
 Fabric Loader: 0.14.9

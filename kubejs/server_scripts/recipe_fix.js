@@ -176,4 +176,7 @@ onEvent('recipes', event => {
       ], {
       C: 'modern_industrialization:copper_rod',
     })
+	event.smelting('ad_astra:desh_block', 'ad_astra:raw_desh_block').xp(9).cookingTime(1500)
+	event.smelting('ad_astra:ostrum_block', 'ad_astra:raw_ostrum_block').xp(9).cookingTime(1500)
+	event.smelting('ad_astra:calorite_block', 'ad_astra:raw_calorite_block').xp(9).cookingTime(1500)
 })

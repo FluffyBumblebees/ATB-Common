@@ -1,0 +1,33 @@
+type = menu
+
+customization-meta {
+  identifier = me.shedaniel.clothconfig2.gui.ClothConfigScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=503974%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = menufiles\buttons\2xbuttonhover.png
+  backgroundnormal = menufiles\buttons\2xbuttonbase.png
+}
+
+customization {
+  identifier = %id=297974%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = menufiles\buttons\2xbuttonhover.png
+  backgroundnormal = menufiles\buttons\2xbuttonbase.png
+}
+

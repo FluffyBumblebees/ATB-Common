@@ -4,7 +4,7 @@
 	# (Default = true) Optimizes vanilla's per-player mobspawning by using PaperMC's PlayerMobDistanceMap.
 	use_distance_map = true
 	# (Default = false) Stops the server from loading spawn chunks.
-	disable_spawn_chunks = true
+	disable_spawn_chunks = false
 	# (Default = false) Allows more xp orbs to merge with one another, to reduce xp orb lag.
 	fast_xp_merging = false
 	# (Default = false) Prevents players from moving into unloaded chunks.
@@ -33,7 +33,7 @@
 # Modifies mobcaps, no-chunk-tick, simulation and view-distance depending on the MSPT.
 [dynamic]
 	# (Default = false) Enables this feature.
-	enabled = false
+	enabled = true
 	# (Default = 35) The average MSPT to target.
 	target_mspt = 35
 	# (Default = 15) The amount of seconds between dynamic performance updates.

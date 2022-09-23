@@ -269,14 +269,8 @@ onEvent('recipes', event => {
 	Conv4Two2('blockus:andesite_bricks', 'chisel:solid_bricks/andesite', 'chisel:soft_bricks/andesite', 'consistency_plus:andesite_bricks')
 
 	//Ladders
-	conv3('pfm:warped_simple_bunk_ladder', 'charm:warped_ladder', 'betternether:warped_ladder')
-	conv3('pfm:crimson_simple_bunk_ladder', 'charm:crimson_ladder', 'betternether:crimson_ladder')
-	conv2('pfm:oak_simple_bunk_ladder', 'charm:oak_ladder')
-	conv2('pfm:dark_oak_simple_bunk_ladder', 'charm:dark_oak_ladder')
-	conv2('pfm:spruce_simple_bunk_ladder', 'charm:spruce_ladder')
-	conv2('pfm:acacia_simple_bunk_ladder', 'charm:acacia_ladder')
-	conv2('pfm:birch_simple_bunk_ladder', 'charm:birch_ladder')
-	conv2('pfm:jungle_simple_bunk_ladder', 'charm:jungle_ladder')
+	conv2('charm:warped_ladder', 'betternether:warped_ladder')
+	conv2('charm:crimson_ladder', 'betternether:crimson_ladder')
 
 	//Bars
 	event.remove({id: 'charm:variant_bars/gold_bars'})

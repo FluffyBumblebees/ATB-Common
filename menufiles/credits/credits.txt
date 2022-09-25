@@ -181,7 +181,6 @@ Naturalist by Starfish_Studios
 Nature's Compass by Chaosyr
 Nether Portal Fix by BlayTheNinth
 Oh The Biomes You'll Go by AOCAWOL
-On Soul Fire by MoriyaShiine
 Overweight Farming by agentmhkskg
 Owo Lib by gliscowo
 Oxidized by safrodev
@@ -221,6 +220,7 @@ Smooth Chunk by fl0gic
 Snow! Real Magic! by Snownee_
 Sodium by jellysquid3_
 Sodium Extra by FlashyReese
+Soul Fire'd by Crystal Spider
 Sound Physics by henkelmax
 Stained Trees by Fluffy_Bumblebee
 St'ructure Tools by ProjectET

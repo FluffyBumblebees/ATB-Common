@@ -151,7 +151,6 @@ KubeJS by LatvianModder
 KubeJS Create by LatvianModder
 LazyDFU by tuxed
 Let Me Despawn by frikinjay
-Library Ferret by jtl_elisa
 Light Overlay by shedaniel
 Lithium by jellysquid3_
 Little Ants by mastrocaleb
@@ -169,7 +168,6 @@ Mob Scarecrows by ProbabilityPigeon
 Mobs Attempt Parkour by Barribob
 Modern Industrialization by thetechnici4n
 Mod Menu by ProspectorDev
-More Babies by mammut53m
 More Culling by fxmorin
 More Geodes by TheDeathlyCow
 More Tags by gudenau
@@ -215,7 +213,6 @@ Rusted Iron by Lemonszz
 ServerCore by Wesley8081
 Simple Animated Guns by elidhanmc
 Smoke Suppression by supersaiyansubtlety
-Smooth Boot by UltimateBoomer
 Smooth Chunk by fl0gic
 Snow! Real Magic! by Snownee_
 Sodium by jellysquid3_

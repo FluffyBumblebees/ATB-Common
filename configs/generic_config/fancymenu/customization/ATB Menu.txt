@@ -1,0 +1,404 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = background
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-left
+  x = 3
+  action = movebutton
+  y = -31
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = menufiles\mainmenu\transparent.png
+  backgroundnormal = menufiles\mainmenu\empty.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  seconds = 0.2
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 5.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  orientation = mid-left
+  x = 3
+  action = movebutton
+  y = 11
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = menufiles\mainmenu\transparent.png
+  backgroundnormal = menufiles\mainmenu\empty.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  seconds = 0.4
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 5.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  orientation = mid-left
+  x = 104
+  action = movebutton
+  y = -31
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = menufiles\mainmenu\accessibility_hover.png
+  backgroundnormal = menufiles\mainmenu\accessibility_base.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  seconds = 0.3
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 5.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=376310%
+  orientation = mid-left
+  x = 104
+  action = movebutton
+  y = -10
+}
+
+customization {
+  identifier = %id=376310%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = menufiles\mainmenu\transparent.png
+  backgroundnormal = menufiles\mainmenu\empty.png
+}
+
+customization {
+  identifier = %id=376310%
+  seconds = 0.4
+  onlyfirsttime = true
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-left
+  x = 3
+  action = movebutton
+  y = -52
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = menufiles\mainmenu\transparent.png
+  backgroundnormal = menufiles\mainmenu\empty.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  seconds = 0.1
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 5.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  orientation = mid-centered
+  x = 146
+  action = movebutton
+  y = 4
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  width = 20
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-left
+  x = 3
+  action = movebutton
+  y = -10
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = menufiles\mainmenu\transparent.png
+  backgroundnormal = menufiles\mainmenu\empty.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  seconds = 0.3
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 5.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-left
+  x = 3
+  action = movebutton
+  y = 32
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 100
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = setbuttonlabel
+  value = Quit
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = menufiles\mainmenu\transparent.png
+  backgroundnormal = menufiles\mainmenu\empty.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  seconds = 0.5
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 5.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = mid-left
+  x = 104
+  action = movebutton
+  y = 11
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = menufiles\mainmenu\language_hover.png
+  backgroundnormal = menufiles\mainmenu\language_base.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  seconds = 0.5
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 5.0
+  action = hidebuttonfor
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 165
+  action = deep_customization_element:title_screen_branding
+  actionid = 53d3db7b-2e38-4594-b8ee-a5aee2a5acb01656418858165
+  y = 348
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 423
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = d8377a72-a2a2-4abb-88a9-ceb0cf45e7b71656418858168
+  y = 190
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 183
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 04ac7019-2f8c-4b17-a8a8-bfaeff378a3f1656418858168
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 297fbdce-0a82-4c9a-8370-a10adf0a56b71656418858168
+  y = 0
+  height = 30
+}
+
+customization {
+  orientation = mid-left
+  basecolor = #A0235D
+  shadow = true
+  splashfilepath = menufiles\splashtext\splashes.txt
+  rotation = 25.0
+  scale = 0.5
+  refresh = true
+  bouncing = true
+  vanilla-like = false
+  x = 98
+  actionid = 5cac3a01-5f2c-443e-9fbc-bdb5f8fa390d1642837198520
+  action = addsplash
+  y = -64
+}
+
+customization {
+  orientation = top-centered
+  basecolor = #A0235D
+  shadow = true
+  splashfilepath = menufiles\credits\credits.txt
+  rotation = 0.0
+  scale = 0.75
+  refresh = true
+  bouncing = false
+  vanilla-like = false
+  x = -20
+  actionid = 8bff098c-48eb-4e49-a74e-d3f8f32153a81643527919274
+  action = addsplash
+  y = 39
+}
+
+customization {
+  path = menufiles/title+icon/title.png
+  orientation = top-centered
+  x = -96
+  width = 193
+  action = addtexture
+  actionid = 3df90ace-eccb-4c58-945e-dcaa48f3452c1654163496638
+  y = 0
+  height = 32
+}
+
+customization {
+  orientation = bottom-centered
+  basecolor = #A0235D
+  shadow = true
+  rotation = 0.0
+  scale = 0.5
+  refresh = false
+  bouncing = false
+  vanilla-like = false
+  x = -13
+  actionid = facbe61e-6638-45dc-9d5e-3c44d5d9512c1664088873362
+  action = addsplash
+  y = -9
+  text = All The Blocks 1.7.4
+}
+

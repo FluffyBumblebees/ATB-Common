@@ -1,0 +1,37 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_436
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=345100%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=505100%
+  action = hidebutton
+}
+
+customization {
+  orientation = mid-centered
+  shadow = false
+  x = -138
+  actionid = 7e85c59a-bc39-4ff9-871a-cdae7a8afb651647393404675
+  action = addtext
+  y = -12
+  scale = 2.0
+  alignment = left
+  value = THERE WILL BE NO CHEATING!
+}
+

@@ -1,4 +1,5 @@
 
+
 # Lets you enable / disable certain features and modify them.
 [features]
 	# (Default = true) Optimizes vanilla's per-player mobspawning by using PaperMC's PlayerMobDistanceMap.
@@ -33,7 +34,7 @@
 # Modifies mobcaps, no-chunk-tick, simulation and view-distance depending on the MSPT.
 [dynamic]
 	# (Default = false) Enables this feature.
-	enabled = true
+	enabled = false
 	# (Default = 35) The average MSPT to target.
 	target_mspt = 35
 	# (Default = 15) The amount of seconds between dynamic performance updates.

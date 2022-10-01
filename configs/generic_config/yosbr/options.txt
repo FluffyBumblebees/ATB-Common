@@ -14,7 +14,7 @@ realmsNotifications:false
 reducedDebugInfo:true
 showSubtitles:false
 touchscreen:false
-fullscreen:true
+fullscreen:false
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -37,7 +37,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:1
 renderClouds:fast
-resourcePacks:["vanilla","Fabric Mods","continuity/default","Lum-5.0-1.18.2.zip","Theinar Language","emissive_AE2.zip","realistic-explosions.zip","illuminations/pixelaccurate","minecraft/supporteatinganimation","illuminations/lowerres"]
+resourcePacks:["vanilla","Fabric Mods","Theinar Language","realistic-explosions.zip","minecraft/supporteatinganimation","ATB-RP.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -109,9 +109,6 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
-key_key.dynamicfps.toggle_forced:key.keyboard.unknown
-key_key.dynamicfps.toggle_disabled:key.keyboard.unknown
-key_key.ellemes_container_lib.config:key.keyboard.g
 key_key.iron-jetpacks.engine:key.keyboard.e
 key_key.iron-jetpacks.hover:key.keyboard.h
 key_key.iron-jetpacks.descend:key.keyboard.left.control
@@ -142,24 +139,15 @@ key_key.clienttweaks.disableLogStripping:key.keyboard.backslash
 key_key.crawl:key.keyboard.left.alt
 key_create.keyinfo.toolmenu:key.keyboard.s
 key_create.keyinfo.toolbelt:key.keyboard.left.alt
-key_key.dml-refabricated.teleport:key.keyboard.v
-key_key.dml-refabricated.soul_vision:key.keyboard.s
 key_dsurround.text.keybind.individualSoundConfig:key.keyboard.semicolon
 key_dsurround.text.keybind.diagnosticHud:key.keyboard.unknown
-key_key.craftpresence.config_keycode.name:key.keyboard.grave.accent
+key_key.ellemes_container_lib.config:key.keyboard.g
 key_key.entityculling.toggle:key.keyboard.unknown
-key_key.feytweaks.openConfigKey:key.keyboard.unknown
-key_key.gearreborn.toggle_nv:key.keyboard.n
 key_key.identity:key.keyboard.k
 key_key.identity_ability:key.keyboard.comma
 key_key.indrev.modular:key.keyboard.period
 key_key.indrev.gamer_axe_toggle:key.keyboard.g
 key_key.inmis.open_backpack:key.keyboard.b
-key_key.inventoryhud.toggle:key.keyboard.unknown
-key_key.inventoryhud.openconfig:key.keyboard.i
-key_key.inventoryhud.togglepot:key.keyboard.unknown
-key_key.inventoryhud.togglearm:key.keyboard.unknown
-key_key.inventoryhud.toggleall:key.keyboard.unknown
 key_key.journeymap.zoom_in:key.keyboard.equal
 key_key.journeymap.zoom_out:key.keyboard.minus
 key_key.journeymap.minimap_type:key.keyboard.left.bracket
@@ -183,7 +171,6 @@ key_keybind.luggage.whistle:key.keyboard.grave.accent
 key_mininggadgets.text.open_gui:key.keyboard.m
 key_key.modern_industrialization.activate:key.keyboard.o
 key_key.modmenu.open_menu:key.keyboard.m
-key_key.pfm.toiletUse:key.keyboard.u
 key_presencefootsteps.settings.key:key.keyboard.p
 key_raised.down:key.keyboard.unknown
 key_raised.up:key.keyboard.unknown

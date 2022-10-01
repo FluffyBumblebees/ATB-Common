@@ -769,11 +769,6 @@ onEvent('tags.items', event => {
 	event.add('chipped:end_stone', 'chisel:solid_bricks/end_stone')
 	event.add('chipped:end_stone', 'chisel:panel/end_stone')
 	event.add('chipped:end_stone', 'chisel:ornate/end_stone')
-	event.add('chipped:end_stone', 'improved_end:polished_end_stone')
-	event.add('chipped:end_stone', 'improved_end:end_stone_tiles')
-	event.add('chipped:end_stone', 'improved_end:cracked_end_stone_bricks')
-	event.add('chipped:end_stone', 'improved_end:chiseled_end_stone_bricks')
-	event.add('chipped:end_stone', 'improved_end:end_stone_pillar')
 	event.add('chipped:end_stone', 'betterend:endstone_dust')
 	event.add('chipped:end_stone', 'consistency_plus:cobbled_end_stone')
 	event.add('chipped:end_stone', 'consistency_plus:polished_end_stone')
@@ -846,7 +841,6 @@ onEvent('tags.items', event => {
 	event.add('chipped:netherrack', 'blockus:netherrack_circle_pavement')
 
 	//Purpur
-	event.add('chipped:purpur_block', 'improved_end:cracked_purpur')
 	event.add('chipped:purpur_block', 'minecraft:purpur_pillar')
 	event.add('chipped:purpur_block', 'chisel:weaver/purpur')
 	event.add('chipped:purpur_block', 'chisel:layer/purpur')

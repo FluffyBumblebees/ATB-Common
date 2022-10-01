@@ -1,4 +1,3 @@
-3D Skin Layers by tr9zw
 Ad Astra! by Alex Nijjar
 Additional Additions by dqu1jjj
 Additional Enchanted Miner by Kotori316
@@ -16,10 +15,9 @@ Ambient Sounds by CreativeMD
 Another Furniture by Starfish_Studios
 Apple Skin by Squeek502
 Applied Energistics 2 by TeamAppliedEnergistics
-Aquatic Torches by realmayus
 Architect's Palette by slomax907
 Architectury by shedaniel
-Artifality by PinkGoosik
+ATB Core by Fluffy Bumblebee
 AttributeFix by Flytre7
 Audio Engine Tweaks by The__Matty
 Auudio by Keksuccino
@@ -34,12 +32,10 @@ Better Biome Blend by FionaTheMortal
 Better End by paulevs
 Better Nether by paulevs
 Better Sodium Video Settings Button by LimeShulkerBox
-Better Third Person by Socolio
 Biome Makeover by Lemonszz
 Bits and Chisels by cool_mineman
 Blast by doctor4t
 Blockus by Brandcraft_
-Boat Container by KxmischesDomi
 Bookshelf by DarkhaxDev
 Botania by williewillus
 Bow Infinity Fix by Parker8283
@@ -61,11 +57,9 @@ Columns by haykam
 Compact Machines by AlphaMode
 Companion by Snownee_
 Consistency+ by Cart3r1234
-Continuity by Pepper_Bell
 Cooking for Blockheads by BlayTheNinth
 Coral Reef by primetoxinz
 Coxinha Utilities by Luligabi12el
-Craft Presence by CDAGaming_
 Crawl by fewizz_
 Create by Fabricators of Create
 Create Crafts and Additions by Alphamode & MRHMiner
@@ -82,7 +76,6 @@ Dark Enchanting by ffrannny
 Dark Utilities by DarkhaxDev
 Dawn API by Hugman_76
 Decorative Blocks by stohun
-Deep mob learning by NathanPB
 Dehydration by Globox_Z
 Drippy Loading Screen by Keksuccino
 Dustrial Decor by BlueDuckYT
@@ -114,14 +107,13 @@ Factory Blocks by Slaincow
 Fancy Menu by Keksuccino
 Farmer's Delight by NewHoryzon
 Farming for blockheads by BlayTheNinth
+Fast Load by Fluffy Bumblebee
 Fast open links and folders by altrisi
 Feature NBT Deadlock Be Gone by telepathicgrunt
 FerriteCore by malte0811
-Fey Tweaks by Feytox
 Forge Config Api Port by Fuzs_
 Forget Me Chunk by BreadLoaf
 Friends & Foes by faboslav
-Gear Reborn by loleq21
 Gecko Lib by ThanosGecko
 Gotta Go Fast by PixelAgent007
 Guard Villagers by MrSterner_
@@ -130,13 +122,10 @@ Hydrogen by jellysquid3_
 Hyle by lilypuree
 Iceberg by Grend_G
 Identity by Draylar1
-Illuminations by doctor4t
-Improved End by RupyberStudios
 Indium by comp500
 Industrial Revolution by GabrielHOlv
 Infusion Table by jptrzy
 Inmis by Darylar1
-Inventory Hud by dmitrylovin
 Iris Shaders by coderbot
 Iron Chests by cyberanner
 Iron Jetpacks by BlakeBr0
@@ -158,10 +147,8 @@ Luggage by GizmoTheMoonPig
 Megane by badasintended
 Memory Leak Fix by fxmorin
 Mining Gadgets by Alphamode & Direwolf20
-Mipmaplevel and Language Fix by KingContaria
 Missing Wilds by UltrusBot
 MmmMmmMmmMmm by MehVahdJukaar
-Mo' Colours by GabrielHOlv
 Mo' Glass by alexander9892
 Mo' Structures by ffrannny
 Mob Scarecrows by ProbabilityPigeon
@@ -178,20 +165,18 @@ Mythic Metals Decorations by Noaaan
 Naturalist by Starfish_Studios
 Nature's Compass by Chaosyr
 Nether Portal Fix by BlayTheNinth
+Nox Legacy by SciRave
 Oh The Biomes You'll Go by AOCAWOL
 Overweight Farming by agentmhkskg
 Owo Lib by gliscowo
 Oxidized by safrodev
-Packet Size Doubler by THESIIG
 Paginated Advancements by DaFuqsy
 Paradise Lost by ImmortalDevs
 Patchouli by williewillus
 Paxi by YUNGNICKYUNG
-Pehkui by Virtuoel
 Physics by haubna
 Pick Up Notifier by tr9zw
 Plushie by Link_911
-Polymorph by TheIllusiveC4
 Powah by thetechnic4n
 Presence Footsteps by S0llace
 Promenade by Hugman_76
@@ -233,7 +218,6 @@ The Graveyard by finallion_13
 The Graveyard Biomes by finallion_13
 Tie Fix by j_t_a_i
 Toast Block by Linguardium
-Tool Tip Fix by Kyrptonaught
 Trap Expansion by DomamaN202
 Traverse by TerraformersMC
 Trinkets by EmilyPloszaj
@@ -256,4 +240,3 @@ Your options shall be respected by Shedaniel
 Yung's Api by YUNGNICKYUNG
 Complementary Shaders by EminGTR
 Realistic Explosions by Narri
-AE2 Emissives by Sea Kerman

@@ -307,7 +307,26 @@ onEvent('rei.hide.items', event => {
 	'blockus:polished_basalt_brick_stairs',
 	'blockus:rough_basalt',
 	'blockus:rough_basalt_slab',
-	'blockus:rough_basalt_stairs'
+	'blockus:rough_basalt_stairs',
+	'more_gems:sapphire_chestplate',
+	'more_gems:sapphire_axe',
+	'more_gems:sapphire_shovel',
+	'more_gems:sapphire_ore',
+	'more_gems:sapphire_block',
+	'more_gems:sapphire_boots',
+	'more_gems:sapphire_paxel',
+	'more_gems:sapphire_hoe',
+	'more_gems:sapphire_sword',
+	'enriched:deepslate_sapphire_ore',
+	'more_gems:sapphire_bow',
+	'more_gems:sapphire_pickaxe',
+	'more_gems:sapphire_ore_deepslate',
+	'more_gems:sapphire_hammer',
+	'more_gems:sapphire_helmet',
+	'enriched:sapphire_ore',
+	'more_gems:sapphire',
+	'more_gems:sapphire_leggings',
+	'more_gems:sapphire_excavator'
 	]
    )
  }

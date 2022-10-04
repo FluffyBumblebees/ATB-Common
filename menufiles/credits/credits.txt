@@ -36,6 +36,7 @@ Biome Makeover by Lemonszz
 Bits and Chisels by cool_mineman
 Blast by doctor4t
 Blockus by Brandcraft_
+Bodacious Berries by ix0rai
 Bookshelf by DarkhaxDev
 Botania by williewillus
 Bow Infinity Fix by Parker8283
@@ -156,6 +157,7 @@ Mobs Attempt Parkour by Barribob
 Modern Industrialization by thetechnici4n
 Mod Menu by ProspectorDev
 More Culling by fxmorin
+More Gems by kwpugh
 More Geodes by TheDeathlyCow
 More Tags by gudenau
 More Villagers by SameDifferent

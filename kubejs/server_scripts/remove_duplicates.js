@@ -48,4 +48,5 @@ onEvent('recipes', event => {
   event.remove({output: 'mythicmetals:silver_helmet'})
   event.remove({output: 'mythicmetals:silver_leggings'})
   event.remove({output: 'mythicmetals:silver_boots'})
+  event.remove({input: 'more_gems:sapphire'})
 })

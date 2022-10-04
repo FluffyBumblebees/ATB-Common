@@ -1,0 +1,123 @@
+{
+	/* ***********************
+	   No ore gen solution
+	   - gem drops from Coal ores
+	   ***********************
+	*/
+	"enableCoalGemDrops": false,
+	"coalDropGemsChance": 0.029999999329447746,
+	"deepslateCoalDropGemsChance": 0.029999999329447746,
+	/* ***********************
+	   Citrine Ores
+	   ***********************
+	*/
+	"citrineVeinSize": 6,
+	"citrineMaxLevel": 180,
+	"citrinePerChunk": 12,
+	/* ***********************
+	   Tourmaline Ores
+	   ***********************
+	*/
+	"tourmalineVeinSize": 6,
+	"tourmalineMaxLevel": 140,
+	"tourmalinePerChunk": 12,
+	/* ***********************
+	   Kunzite Ores
+	   ***********************
+	*/
+	"kunziteVeinSize": 6,
+	"kunziteMaxLevel": 120,
+	"kunzitePerChunk": 12,
+	/* ***********************
+	   Nether Kunzite Ores
+	   ***********************
+	*/
+	"kunziteVeinSizeNether": 6,
+	"kunziteMaxLevelNether": 200,
+	"kunzitePerChunkNether": 12,
+	/* ***********************
+	   Topaz Ores
+	   ***********************
+	*/
+	"topazVeinSize": 6,
+	"topazMaxLevel": 60,
+	"topazPerChunk": 12,
+	/* ***********************
+	   Alexandrite Ores
+	   ***********************
+	*/
+	"alexandriteVeinSize": 6,
+	"alexandriteMaxLevel": 60,
+	"alexandritePerChunk": 12,
+	/* ***********************
+	   Nether Alexandrite Ores
+	   ***********************
+	*/
+	"alexandriteVeinSizeNether": 6,
+	"alexandriteMaxLevelNether": 200,
+	"alexandritePerChunkNether": 12,
+	/* ***********************
+	   Corundum Ores
+	   ***********************
+	*/
+	"corundumVeinSize": 5,
+	"corundumMaxLevel": 30,
+	"corundumPerChunk": 12,
+	/* ***********************
+	   Nether Corundum Ores
+	   ***********************
+	*/
+	"corundumVeinSizeNether": 5,
+	"corundumMaxLevelNether": 70,
+	"corundumPerChunkNether": 12,
+	/* ***********************
+	   Sapphire Ores
+	   ***********************
+	*/
+	"sapphireVeinSize": 0,
+	"sapphireMaxLevel": 0,
+	"sapphirePerChunk": 0,
+	/* ***********************
+	   Deepslate Sapphire Ores
+	   ***********************
+	*/
+	"sapphireVeinSizeDeepslate": 0,
+	"sapphireMaxLevelDeepslate": 0,
+	"sapphirePerChunkDeepslate": 0,
+	/* ***********************
+	   Spinel Ores
+	   ***********************
+	*/
+	"spinelVeinSize": 5,
+	"spinelMaxLevel": 20,
+	"spinelPerChunk": 12,
+	/* ***********************
+	   Deepslate Spinel Ores
+	   ***********************
+	*/
+	"spinelVeinSizeDeepslate": 5,
+	"spinelMaxLevelDeepslate": 0,
+	"spinelPerChunkDeepslate": 12,
+	/* ***********************
+	   Carbonado Ores
+	   ***********************
+	*/
+	"carbonadoVeinSize": 5,
+	"carbonadoMaxLevel": 15,
+	"carbonadoPerChunk": 12,
+	/* ***********************
+	   Deepslate Carbonado Ores
+	   ***********************
+	*/
+	"carbonadoVeinSizeDeepslate": 5,
+	"carbonadoMaxLevelDeepslate": 0,
+	"carbonadoPerChunkDeepslate": 10,
+	/* ***********************
+	   Moissanite Ores
+	   ***********************
+	*/
+	"moissaniteVeinSize": 5,
+	"moissaniteMaxLevel": 25,
+	"moissanitePerChunk": 12,
+	"moissaniteHighMaxLevel": 30
+}

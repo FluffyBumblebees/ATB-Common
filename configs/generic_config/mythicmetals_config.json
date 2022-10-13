@@ -39,10 +39,10 @@
   "carmot": {
     "enabled": true,
     "veinSize": 4,
-    "perChunk": 2,
-    "bottom": -12,
-    "top": 8,
-    "discardChance": 0.125,
+    "perChunk": 1,
+    "bottom": -24,
+    "top": 10,
+    "discardChance": 0.25,
     "offset": false,
     "trapezoid": false
   },
@@ -83,9 +83,9 @@
   "midas_gold": {
     "enabled": true,
     "veinSize": 7,
-    "perChunk": 5,
-    "bottom": 9,
-    "top": 127,
+    "perChunk": 4,
+    "bottom": 12,
+    "top": 125,
     "discardChance": 0.25,
     "offset": false,
     "trapezoid": false
@@ -135,7 +135,7 @@
     "veinSize": 5,
     "perChunk": 2,
     "bottom": 14,
-    "top": 35,
+    "top": 36,
     "discardChance": 0.0,
     "offset": false,
     "trapezoid": false
@@ -172,11 +172,15 @@
   },
   "runite": {
     "enabled": true,
-    "veinSize": 4,
+    "veinSize": 3,
     "perChunk": 1,
-    "bottom": 38,
-    "top": 52,
-    "discardChance": 0.25,
+    "bottom": 39,
+    "top": 53,
+    "discardChance": 0.5,
+    "veinSizeVariant": 4,
+    "perChunkVariant": 2,
+    "bottomVariant": -55,
+    "topVariant": -37,
     "offset": false,
     "trapezoid": true
   },
@@ -194,9 +198,9 @@
     "enabled": true,
     "veinSize": 4,
     "perChunk": 1,
-    "bottom": 50,
-    "top": 300,
-    "discardChance": 0.25,
+    "bottom": 70,
+    "top": 260,
+    "discardChance": 0.125,
     "veinSizeVariant": 7,
     "perChunkVariant": 2,
     "bottomVariant": 30,
@@ -218,7 +222,7 @@
     "enabled": true,
     "veinSize": 3,
     "perChunk": 1,
-    "bottom": -59,
+    "bottom": -54,
     "top": 5,
     "discardChance": 0.0,
     "offset": false,
@@ -234,6 +238,7 @@
     "offset": false,
     "trapezoid": false
   },
-  "configVersion": 4,
+  "configVersion": 5,
+  "disableFunny": false,
   "blacklist": []
 }

@@ -1,0 +1,33 @@
+type = menu
+
+customization-meta {
+  identifier = ru.bclib.gui.screens.ConfirmFixScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=432564%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = menufiles\buttons\66hover.png
+  backgroundnormal = menufiles\buttons\66base.png
+}
+
+customization {
+  identifier = %id=501564%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = menufiles\buttons\66hover.png
+  backgroundnormal = menufiles\buttons\66base.png
+}
+

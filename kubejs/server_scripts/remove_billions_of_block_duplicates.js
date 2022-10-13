@@ -185,8 +185,6 @@ onEvent('recipes', event => {
 	craftStoneAlternative('blockus:polished_dripstone', 'minecraft:dripstone_block')
 	removeCrafting('architects_palette:dripstone_bricks')
 	craftStoneAlternative('architects_palette:dripstone_bricks', 'blockus:polished_dripstone')
-	removeCrafting('consistency_plus:cut_end_stone')
-	craft2x2('consistency_plus:cut_end_stone', 'improved_end:end_stone_tiles')
 	event.remove({id: 'architects_palette:choral_end_stone_bricks'})
 	event.shapeless('architects_palette:choral_end_stone_bricks', ['minecraft:end_stone_bricks', 'minecraft:chorus_fruit'])
 	removeCrafting('blockus:polished_end_stone')

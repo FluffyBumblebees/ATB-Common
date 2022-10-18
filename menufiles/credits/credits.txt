@@ -154,6 +154,7 @@ Lithium by jellysquid3_
 Little Ants by mastrocaleb
 Log Begone by AzureDoomC
 Luggage by GizmoTheMoonPig
+Maple Forest by Fluffy Bumblebee
 Megane by badasintended
 Memory Leak Fix by fxmorin
 Mining Gadgets by Alphamode & Direwolf20
@@ -251,5 +252,3 @@ XP Obelisk by Meridanus
 You're in grave danger by b1n_ry
 Your options shall be respected by Shedaniel
 Yung's Api by YUNGNICKYUNG
-Complementary Shaders by EminGTR
-Realistic Explosions by Narri

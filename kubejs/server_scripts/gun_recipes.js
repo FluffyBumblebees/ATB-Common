@@ -41,8 +41,25 @@ onEvent('recipes', event => {
     B: 'anim_guns:blueprint_bundle',
 	  }
 	)
+	event.recipes.createMechanicalCrafting('anim_guns:blueprint_pistol_heavy', [
+    'BB',
+    'BB'
+	], {
+    B: 'anim_guns:blueprint_bundle',
+	  }
+	)
+	event.recipes.createMechanicalCrafting('anim_guns:blueprint_smg_machinepistol', [
+    'BB',
+    'BB',
+	' B'
+	], {
+    B: 'anim_guns:blueprint_bundle',
+	  }
+	)
 	
 	event.remove({output: 'anim_guns:pistol_light'})
+	event.remove({output: 'anim_guns:pistol_heavy'})
+	event.remove({output: 'anim_guns:smg_machinepistol'})
 	event.remove({output: 'anim_guns:revolver_magnum'})
 	event.remove({output: 'anim_guns:assaultrifle_light'})
 	event.remove({output: 'anim_guns:assaultrifle_heavy'})
@@ -57,6 +74,29 @@ onEvent('recipes', event => {
 		b: 'anim_guns:hardened_iron_ingot',
 		c: 'anim_guns:blueprint_pistol_light',
 		d: 'anim_guns:pistol_grip'
+	  }
+	)
+	event.recipes.createMechanicalCrafting('anim_guns:pistol_heavy', [
+    'ab',
+    ' c',
+	' d'
+	], {
+		a: 'anim_guns:short_barrel',
+		b: 'anim_guns:blueprint_pistol_heavy',
+		c: 'anim_guns:hardened_iron_ingot',
+		d: 'anim_guns:pistol_grip'
+	  }
+	)
+	event.recipes.createMechanicalCrafting('anim_guns:smg_machinepistol', [
+    'ab',
+    'ec',
+	' d'
+	], {
+		a: 'anim_guns:short_barrel',
+		b: 'anim_guns:blueprint_smg_machinepistol',
+		c: 'anim_guns:hardened_iron_ingot',
+		d: 'anim_guns:pistol_grip',
+		e: 'anim_guns:modern_handguard'
 	  }
 	)
 	event.recipes.createMechanicalCrafting('anim_guns:revolver_magnum', [

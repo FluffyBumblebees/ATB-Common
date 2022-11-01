@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.fluffybumblebee.atb_core.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "BlockRegistryMixin"
+  ],
+  "client": [
+    "InGameHudMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

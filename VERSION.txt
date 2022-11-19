@@ -1,12 +1,12 @@
-1.7.8
+1.7.9
 
 MC Version: 1.18.2
-Fabric Loader: 0.14.9
-FAPI: 0.59.1
+Fabric Loader: 0.14.10
+FAPI: 0.66.0
 
 Modpack Page: https://www.technicpack.net/modpack/the-limit-reborn-1181.1905659
 
-Client Package: https://www.dropbox.com/s/pfel32pg5065nrj/All%20The%20Blocks%20%28Modpack.zip?dl=0
-Server Package: https://www.dropbox.com/s/fgqvrghulmgbu7h/All%20the%20Blocks%20%28Server%29.zip?dl=0
+Client Package: https://www.dropbox.com/s/7yow57ry3iinvgf/All%20The%20Blocks%20%28Modpack.zip?dl=0
+Server Package: https://www.dropbox.com/s/1ki01rvuoxvy31u/All%20the%20Blocks%20%28Server%29.zip?dl=0
 
 Changelog: https://discord.gg/fMSnenNSXM  #modpack-updates

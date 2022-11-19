@@ -74,12 +74,13 @@ Creeper Safety by Fluffy Bumblebee
 Croptopia by thethonk
 Croptopia's Chocolaterie by slomax907
 CTM Refabricated by CodexAdrian
+Cull Clouds by ugamii
 Custom Portals by palyon_1
 Dark Enchanting by ffrannny
 Dark Utilities by DarkhaxDev
 Dawn API by Hugman_76
 Decorative Blocks by stohun
-Dehydration by Globox_Z
+Drink Beer by Lekavar
 Drippy Loading Screen by Keksuccino
 Dustrial Decor by BlueDuckYT
 Dynamic Surroundings by Orecruncher
@@ -99,8 +100,6 @@ Enhanced Visuals by CreativeMD
 Enriched by CamoMano_
 Entity Collision FPS Fix by Corgi_Taco
 Entity Culling by tr9zw
-Environmentz by Globox_Z
-Exordium by tr7zw
 Expanded Delight by ianm1647
 Expanded Storage by 3llemes
 Explorer's Compass by Chaosyr
@@ -109,28 +108,27 @@ Extra Generators by D4rkness_King
 Experience Bug Fix by MacTso
 Fabric API by modmuss50
 Fabric Language Kotlin by modmuss50
-Fabric Seasons by D4rkness_King
 Factory Blocks by Slaincow
 Fancy Menu by Keksuccino
 Farmer's Delight by NewHoryzon
-Farming for blockheads by BlayTheNinth
+Farmer's Knives by ianm1647
+Farming for Blockheads by BlayTheNinth
 Fast Load by Fluffy Bumblebee
 Fast open links and folders by altrisi
 Feature NBT Deadlock Be Gone by telepathicgrunt
 FerriteCore by malte0811
 Floral Flair by ibex80
 Forge Config Api Port by Fuzs_
-Forget Me Chunk by BreadLoaf
 Friends & Foes by faboslav
 Gecko Lib by ThanosGecko
 Gotta Go Fast by PixelAgent007
 Guard Villagers by MrSterner_
 Hephaestus by Alphamode
+HoldThatChunk by dlee13
 HT's Treechop by hammertater
 Hydrogen by jellysquid3_
 Hyle by lilypuree
 Iceberg by Grend_G
-Identity by Draylar1
 Indium by comp500
 Industrial Revolution by GabrielHOlv
 Infusion Table by jptrzy
@@ -155,6 +153,7 @@ Little Ants by mastrocaleb
 Log Begone by AzureDoomC
 Luggage by GizmoTheMoonPig
 Maple Forest by Fluffy Bumblebee
+MCPitanLibArch by Pitan
 Megane by badasintended
 Memory Leak Fix by fxmorin
 Mining Gadgets by Alphamode & Direwolf20
@@ -244,6 +243,7 @@ Visuality by PinkGoosik
 Visual Workbench by Fuzs_
 Very Many Players by ishlandmc
 Wild Backport by blackgear27
+Wild Backport: Additions by Jukittita
 Wired Redstone by Kneelawk
 Wireless Networks by GabrielHOlv
 WMITAF by ShakesterNano
@@ -252,3 +252,5 @@ XP Obelisk by Meridanus
 You're in grave danger by b1n_ry
 Your options shall be respected by Shedaniel
 Yung's Api by YUNGNICKYUNG
+Complementary Shaders by EminGTR
+Realistic Explosions by Narri

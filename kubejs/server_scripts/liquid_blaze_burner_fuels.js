@@ -5,6 +5,7 @@ onEvent('tags.fluids', event => {
 	event.add('createaddition:burnable_fuel_3000', 'techreborn:oil')
 	event.add('createaddition:burnable_fuel_3600', 'modern_industrialization:light_fuel')
 	event.add('createaddition:burnable_fuel_5600', 'modern_industrialization:heavy_fuel')
+	event.add('createaddition:burnable_fuel_3000', 'modern_industrialization:synthetic_oil')
 	event.add('createaddition:burnable_fuel_3000', 'modern_industrialization:crude_oil')
 	event.add('createaddition:burnable_fuel_3000', 'techreborn:oil')
 	event.add('createaddition:burnable_fuel_3000', 'ad_astra:oil')

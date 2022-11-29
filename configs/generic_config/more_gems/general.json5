@@ -1,0 +1,293 @@
+{
+	/* 
+	   
+	   
+	   ******************************
+	   Bow Zoom Multiplier
+	   - vanilla bow value = .15F
+	   - pretty good value = .45F
+	   - awesome value = .75F
+	   ******************************
+	*/
+	"bowZoomMultiplier": 0.44999998807907104,
+	/* ********
+	   Sharpening Gems
+	   ********
+	*/
+	"sharpeningGemRepairAmount": 50,
+	"sharpeningGemGreaterRepairAmount": 100,
+	/* ********
+	   Juju Settings
+	   ********
+	*/
+	"jujuChance": 0.05999999865889549,
+	"enableMoissaniteDocileHoglin": true,
+	/* ********
+	   Treasure Bags
+	   ********
+	*/
+	"treasureBagChance": 0.014999999664723873,
+	"enableEnchantedBookDrop": true,
+	"enableWanderingTrades": true,
+	"defaultDrop": "minecraft:gunpowder",
+	/* ***************
+	   Enchantment Settings
+	   ***************
+	*/
+	"amountYellowHeartsQuickening": 10.0,
+	"durationQuickening": 40,
+	"strengthLevelQuickening": 1,
+	"speedLevelQuickening": 1,
+	"slownessLevelQuickening": 1,
+	"enemySlownessDurationTicksQuickening": 300,
+	"razorDamageIncrease": 6.0,
+	"untouchableDamage": 7,
+	"shulkerBladeDurationTicks": 300,
+	"wisdomExperienceMultiplier": 5,
+	"lightningChance": 0.10000000149011612,
+	"floatingBaseDuration": 80,
+	"minngHelperVertical": 2,
+	"minerHelperHoriz": 4,
+	"attractingBaseHorizontalRadius": 6,
+	"boundReturnAll": false,
+	/* 
+	   
+	   
+	   ******************************
+	   CITRINE TOOL MATERIAL
+	   ******************************
+	*/
+	"citrineDurability": 825,
+	"citrineMiningSpeed": 6.0,
+	"citrineAttackDamage": 2.0,
+	"citrineMiningLevel": 2,
+	"citrineEnchantability": 14,
+	/* 
+	   
+	   
+	   ******************************
+	   CITRINE ARMOR MATERIAL
+	   ******************************
+	*/
+	"citrineDurabilityMultiplier": 16,
+	"citrineArmorEnchantability": 7,
+	"citrineToughness": 0.0,
+	"citrineKnockbackResistance": 0.0,
+	/* 
+	   
+	   
+	   ******************************
+	   TOURMALINE TOOL MATERIAL
+	   ******************************
+	*/
+	"tourmalineDurability": 936,
+	"tourmalineMiningSpeed": 6.0,
+	"tourmalineAttackDamage": 2.0,
+	"tourmalineMiningLevel": 2,
+	"tourmalineEnchantability": 14,
+	/* 
+	   
+	   
+	   ******************************
+	   TOURMALINE ARMOR MATERIAL
+	   ******************************
+	*/
+	"tourmalineDurabilityMultiplier": 21,
+	"tourmalineArmorEnchantability": 9,
+	"tourmalineToughness": 0.0,
+	"tourmalineKnockbackResistance": 0.0,
+	/* 
+	   
+	   
+	   ******************************
+	   KUNZITE TOOL MATERIAL
+	   ******************************
+	*/
+	"kunziteDurability": 1092,
+	"kunziteMiningSpeed": 6.0,
+	"kunziteAttackDamage": 2.0,
+	"kunziteMiningLevel": 2,
+	"kunziteEnchantability": 14,
+	/* 
+	   
+	   
+	   ******************************
+	   KUNZITE ARMOR MATERIAL
+	   ******************************
+	*/
+	"kunziteDurabilityMultiplier": 23,
+	"kunziteArmorEnchantability": 9,
+	"kunziteToughness": 0.0,
+	"kunziteKnockbackResistance": 0.0,
+	/* 
+	   
+	   
+	   ******************************
+	   TOPAZ TOOL MATERIAL
+	   ******************************
+	*/
+	"topazDurability": 1248,
+	"topazMiningSpeed": 6.0,
+	"topazAttackDamage": 2.0,
+	"topazMiningLevel": 2,
+	"topazEnchantability": 14,
+	/* 
+	   
+	   
+	   ******************************
+	   TOPAZ ARMOR MATERIAL
+	   ******************************
+	*/
+	"topazDurabilityMultiplier": 26,
+	"topazArmorEnchantability": 9,
+	"topazToughness": 0.0,
+	"topazKnockbackResistance": 0.0,
+	/* 
+	   
+	   
+	   ******************************
+	   ALEXANDRITE TOOL MATERIAL
+	   ******************************
+	*/
+	"alexandriteDurability": 1326,
+	"alexandriteMiningSpeed": 6.0,
+	"alexandriteAttackDamage": 2.0,
+	"alexandriteMiningLevel": 2,
+	"alexandriteEnchantability": 14,
+	/* 
+	   
+	   
+	   ******************************
+	   ALEXANDRITE ARMOR MATERIAL
+	   ******************************
+	*/
+	"alexandriteDurabilityMultiplier": 28,
+	"alexandriteArmorEnchantability": 9,
+	"alexandriteToughness": 0.0,
+	"alexandriteKnockbackResistance": 0.0,
+	/* 
+	   
+	   
+	   ******************************
+	   CORUNDUM TOOL MATERIAL
+	   ******************************
+	*/
+	"corundumDurability": 1404,
+	"corundumMiningSpeed": 6.0,
+	"corundumAttackDamage": 2.0,
+	"corundumMiningLevel": 3,
+	"corundumEnchantability": 14,
+	/* 
+	   
+	   
+	   ******************************
+	   CORUNDUM ARMOR MATERIAL
+	   ******************************
+	*/
+	"corundumDurabilityMultiplier": 30,
+	"corundumArmorEnchantability": 9,
+	"corundumToughness": 0.25,
+	"corundumKnockbackResistance": 0.0,
+	/* 
+	   
+	   
+	   ******************************
+	   SAPPHIRE TOOL MATERIAL
+	   ******************************
+	*/
+	"sapphireDurability": 1404,
+	"sapphireMiningSpeed": 6.0,
+	"sapphireAttackDamage": 2.0,
+	"sapphireMiningLevel": 3,
+	"sapphireEnchantability": 14,
+	/* 
+	   
+	   
+	   ******************************
+	   SAPPHIRE ARMOR MATERIAL
+	   ******************************
+	*/
+	"sapphireDurabilityMultiplier": 30,
+	"sapphireArmorEnchantability": 9,
+	"sapphireToughness": 0.25,
+	"sapphireKnockbackResistance": 0.0,
+	/* 
+	   
+	   
+	   ******************************
+	   SPINEL TOOL MATERIAL
+	   ******************************
+	*/
+	"spinelDurability": 1404,
+	"spinelMiningSpeed": 6.0,
+	"spinelAttackDamage": 2.0,
+	"spinelMiningLevel": 3,
+	"spinelEnchantability": 14,
+	/* 
+	   
+	   
+	   ******************************
+	   SPINEL ARMOR MATERIAL
+	   ******************************
+	*/
+	"spinelDurabilityMultiplier": 30,
+	"spinelArmorEnchantability": 9,
+	"spinelToughness": 0.5,
+	"spinelKnockbackResistance": 0.0,
+	/* 
+	   
+	   
+	   ******************************
+	   CARBONADO TOOL MATERIAL
+	   ******************************
+	*/
+	"carbonadoDurability": 1561,
+	"carbonadoMiningSpeed": 8.0,
+	"carbonadoAttackDamage": 3.0,
+	"carbonadoMiningLevel": 3,
+	"carbonadoEnchantability": 24,
+	/* 
+	   
+	   
+	   ******************************
+	   CARBONADO ARMOR MATERIAL
+	   ******************************
+	*/
+	"carbonadoDurabilityMultiplier": 33,
+	"carbonadoArmorEnchantability": 10,
+	"carbonadoToughness": 0.75,
+	"carbonadoKnockbackResistance": 0.25,
+	/* 
+	   
+	   
+	   ******************************
+	   MOISSANITE TOOL MATERIAL
+	   ******************************
+	*/
+	"moissaniteDurability": 2031,
+	"moissaniteMiningSpeed": 8.0,
+	"moissaniteAttackDamage": 4.0,
+	"moissaniteMiningLevel": 4,
+	"moissaniteEnchantability": 24,
+	/* 
+	   
+	   
+	   ******************************
+	   MOISSANITE ARMOR MATERIAL
+	   ******************************
+	*/
+	"moissaniteDurabilityMultiplier": 33,
+	"moissaniteArmorEnchantability": 10,
+	"moissaniteToughness": 0.75,
+	"moissaniteKnockbackResistance": 0.25,
+	"enableMoissaniteCuring": true,
+	/* ***********************
+	   GemBag Safety
+	   - Does not allow opening a
+	   gembag if more than one is
+	   on the hotbar
+	   - This prevents posibble dup'ing
+	   ***********************
+	*/
+	"enableSingleGemBagkOnHotbar": true
+}

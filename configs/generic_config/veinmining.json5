@@ -1,0 +1,56 @@
+{
+	"enchantment": {
+		// The rarity of the enchantment ("COMMON", "UNCOMMON", "RARE", "VERY_RARE")
+		"rarity": "RARE",
+		// The number of levels of the enchantment
+		"levels": 5,
+		// Whether or not to consider this enchantment as a treasure
+		"isTreasure": false,
+		// Whether or not this enchantment can be randomly selected for enchanting
+		"isRandomlySelectable": true,
+		// Whether or not this enchantment is available on books
+		"isAvailableOnBooks": true,
+		// The minimum enchanting power requirement for the first enchantment level
+		"minPowerBase": 15,
+		// The additional enchanting power requirement for each enchantment level after the first
+		"minPowerPerLevel": 5,
+		// List of enchantments that cannot be applied together with this enchantment
+		"incompatibleEnchantments": []
+	},
+	"veinMining": {
+		// The maximum number of blocks to mine without the enchantment
+		"requireEffectiveTool": false,
+		// The maximum number of blocks to mine without the enchantment
+		"maxBlocksBase": 0,
+		// The maximum distance from the source block without the enchantment
+		"maxDistanceBase": 0,
+		// The maximum number of blocks to mine per level of the enchantment
+		"maxBlocksPerLevel": 50,
+		// The maximum distance from the source block per level of the enchantment
+		"maxDistancePerLevel": 15,
+		// Whether or not to vein mine diagonally, note this may lead to hidden drops if relocateDrops is false
+		"diagonalMining": true,
+		// Whether or not to move all drops to the same location
+		"relocateDrops": true,
+		// Whether or not the tool can break while mining additional blocks
+		"preventToolDestruction": false,
+		// Whether or not the tool takes damage from mining additional blocks
+		"addToolDamage": true,
+		// The multiplier to tool damage from mining additional blocks
+		"toolDamageMultiplier": 1,
+		// Whether or not the player gets exhaustion from mining additional blocks
+		"addPlayerExhaustion": true,
+		// The multiplier to player exhaustion from mining additional blocks
+		"playerExhaustionMultiplier": 1.0,
+		// Whether or not to stop vein mining when the tool can no longer be used
+		"limitedByDurability": true,
+		// Whether to activate vein mining by standing, crouching, or holding down the keybind ("STANDING", "CROUCHING", "KEYBINDING")
+		"activationState": "CROUCHING",
+		// List of whitelisted/blacklisted blocks or block tags
+		"blocks": [],
+		// Whether the blocks configuration is a whitelist or a blacklist ("WHITELIST", "BLACKLIST")
+		"blocksPermission": "BLACKLIST",
+		// List of groupings by block IDs or block tags, comma-separated
+		"groups": []
+	}
+}

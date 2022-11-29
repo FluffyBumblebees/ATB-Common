@@ -1,0 +1,19 @@
+{
+  "enableRubyGear": false,
+  "enableSapphireGear": false,
+  "enableTanzaniteGear": true,
+  "enableCopperGear": false,
+  "enableObsidianGear": true,
+  "enableEmeraldGear": true,
+  "enableSteelGear": false,
+  "enableDarkGranite": true,
+  "enableMarble": true,
+  "enableRubyOre": false,
+  "enableSapphireOre": false,
+  "enableTanzaniteOre": true,
+  "enableRedwoodTrees": true,
+  "enableUncrafting": true,
+  "enableHorseArmor": true,
+  "enableChainmail": true,
+  "enableRawSmelting": true
+}

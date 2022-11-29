@@ -1,0 +1,24 @@
+# The configuration file for Log Begone
+
+[logbegone]
+# If a log message has one of these phrases, it will be filtered out from logging
+phrases = [
+"Unable to resolve texture",
+"This makes sure Expanded Delight mixins are loaded",
+"Unable to load model",
+"Exception loading blockstate",
+"SemVer",
+"OpenGL debug message",
+"Couldn't parse",
+"minecraft:air did not exist",
+"rei_client",
+"rei_server",
+"rei_common",
+"server_scripts",
+"Failed to parse",
+"Failed to ser/de",
+"NBT contains bad sneak behavior value ""; using default value instead"
+]
+
+# If a log message matches one of these regex patterns, it will be filtered out from logging. EX: 
+regex = []

@@ -1,0 +1,272 @@
+So vanilla minecraft wasn't enough for you? Well here it is! A playground with all the bits and bobs you could ever think of to fiddle around with. Enjoy!
+
+Please consider donating:
+- https://ko-fi.com/fluffybumblebee66143
+
+#               **257 Mods**
+
+Mods in this modpack (**Alphabetical**) (+ Credits):
+- Ad Astra! by Alex Nijjar
+- Additional Additions by dqu1jjj
+- Additional Enchanted Miner by Kotori316
+- Adorn by Juicebus
+- Advanced Netherite by AutovwLive
+- Advanced Reborn by pitan76
+- Advancement Debug by thetechnici4n
+- Advancement Plaques by Grend_G
+- AE Additions by MasterYodAT9G
+- AE2 Things by ProjectET
+- AE2: Wireless Terminals by Mari_023
+- Alloy Forgery by LordDeatHunter
+- Alternate Current by SpaceWalkerRS
+- Ambient Sounds by CreativeMD
+- Amethyst Imbuement by fzzyhmstrs
+- Another Furniture by Starfish_Studios
+- Apple Skin by Squeek502
+- Applied Energistics 2 by TeamAppliedEnergistics
+- Architect's Palette by slomax907
+- Architectury by shedaniel
+- ATB Core by Fluffy Bumblebee
+- AttributeFix by Flytre7
+- Audio Engine Tweaks by The__Matty
+- Auudio by Keksuccino
+- Axolotl Item Fix by colderlavalamp
+- Badpackets by badasintended
+- Balm by BlayTheNinth
+- BcLib by paulevs
+- Beehive Tooltips by EDToaster
+- Beenfo by Giselbaer
+- Better Animal Models by cybercat5555
+- Better Biome Blend by FionaTheMortal
+- Better End by paulevs
+- Better Nether by paulevs
+- Better Sodium Video Settings Button by LimeShulkerBox
+- Biome Makeover by Lemonszz
+- Bits and Chisels by cool_mineman
+- Blast by doctor4t
+- Blockus by Brandcraft_
+- Bodacious Berries by ix0rai
+- Bookshelf by DarkhaxDev
+- Botania by williewillus
+- Bow Infinity Fix by Parker8283
+- Break Progress by haykam
+- C2ME by Ishland
+- Can I mine this block? by shedaniel
+- Carpet by gnembon
+- Carpet Extra by gnembon
+- Carpet Fixes by FX_PR0CESS
+- Carrier by GabrielHOIv
+- Charm by svenhjol
+- Chipped by grimbop
+- Chisel Refabricated by Slaincow
+- Cinderscapes by TerraformersMC
+- Client Tweaks by BlayTheNinth
+- Cloth Config by shedani
+- Clumps by Jaredlll08
+- Columns by haykam
+- Comforts by TheIllusiveC4
+- Compact Machines by AlphaMode
+- Companion by Snownee_
+- Consistency+ by Cart3r1234
+- Cooking for Blockheads by BlayTheNinth
+- Coral Reef by primetoxinz
+- Coxinha Utilities by Luligabi12el
+- Crawl by fewizz_
+- Create by Fabricators of Create
+- Create Crafts and Additions by Alphamode & MRHMiner
+- Create Deco by Alphamode & talrey
+- Create Plus by JieningYu
+- CreativeCore by CreativeMD
+- Creeper AI Updated by srgnis
+- Creeper Overhaul by oosh_7889
+- Creeper Safety by Fluffy Bumblebee
+- Croptopia by thethonk
+- Croptopia's Chocolaterie by slomax907
+- CTM Refabricated by CodexAdrian
+- Cull Clouds by ugamii
+- Custom Portals by palyon_1
+- Dark Enchanting by ffrannny
+- Dark Utilities by DarkhaxDev
+- Dawn API by Hugman_76
+- Decorative Blocks by stohun
+- Drink Beer by Lekavar
+- Drippy Loading Screen by Keksuccino
+- Dustrial Decor by BlueDuckYT
+- Dynamic Surroundings by Orecruncher
+- Easy Magic by Fuzs_
+- Eat All The Eggs by XanthianZ
+- Eating Animations by theone_ss
+- Ecologics by SameDifferent
+- Economical Villager Trading by supersaiyansubtlety
+- Eden Ring by paulevs
+- Effective by doctor4t
+- Eldritch Mobs by cyborg_pigeon
+- Ellemes' Container Library by 3llemes
+- Enchantment Descriptions by DarkhaxDev
+- Enderscape by bunten2005
+- Enhanced Block Entities by FoundationGames
+- Enhanced Visuals by CreativeMD
+- Enriched by CamoMano_
+- Entity Collision FPS Fix by Corgi_Taco
+- Entity Culling by tr9zw
+- Expanded Delight by ianm1647
+- Expanded Storage by 3llemes
+- Explorer's Compass by Chaosyr
+- Extended Drawers by MattiDragon_
+- Extra Generators by D4rkness_King
+- Experience Bug Fix by MacTso
+- Fabric API by modmuss50
+- Fabric Language Kotlin by modmuss50
+- Factory Blocks by Slaincow
+- Fancy Menu by Keksuccino
+- Farmer's Delight by NewHoryzon
+- Farmer's Knives by ianm1647
+- Farming for Blockheads by BlayTheNinth
+- Fast Load by Fluffy Bumblebee
+- Fast open links and folders by altrisi
+- Feature NBT Deadlock Be Gone by telepathicgrunt
+- FerriteCore by malte0811
+- Floral Flair by ibex80
+- Forge Config Api Port by Fuzs_
+- Friends & Foes by faboslav
+- Gecko Lib by ThanosGecko
+- Gotta Go Fast by PixelAgent007
+- Guard Villagers by MrSterner_
+- Hephaestus by Alphamode
+- HoldThatChunk by dlee13
+- HT's Treechop by hammertater
+- Hydrogen by jellysquid3_
+- Hyle by lilypuree
+- Iceberg by Grend_G
+- Indium by comp500
+- Industrial Revolution by GabrielHOlv
+- Infusion Table by jptrzy
+- Inmis by Darylar1
+- Iris Shaders by coderbot
+- Iron Chests by cyberanner
+- Iron Jetpacks by BlakeBr0
+- Item Model Fix by Pepper_Bell
+- Journey Map by techbrew
+- Just Enough Keys by starmun
+- Kibe by D4rkness_King
+- Kiwi by Snownee_
+- Konkrete by Keksuccino
+- Krypton by tuxed
+- KubeJS by LatvianModder
+- KubeJS Create by LatvianModder
+- LazyDFU by tuxed
+- Let Me Despawn by frikinjay
+- Light Overlay by shedaniel
+- Lithium by jellysquid3_
+- Little Ants by mastrocaleb
+- Log Begone by AzureDoomC
+- Luggage by GizmoTheMoonPig
+- Maple Forest by Fluffy Bumblebee
+- MCPitanLibArch by Pitan
+- Megane by badasintended
+- Memory Leak Fix by fxmorin
+- Mining Gadgets by Alphamode & Direwolf20
+- Missing Wilds by UltrusBot
+- MmmMmmMmmMmm by MehVahdJukaar
+- Mo' Glass by alexander9892
+- Mo' Structures by ffrannny
+- Mob Scarecrows by ProbabilityPigeon
+- Mobs Attempt Parkour by Barribob
+- Modern Industrialization by thetechnici4n
+- Mod Menu by ProspectorDev
+- More Culling by fxmorin
+- More Gems by kwpugh
+- More Geodes by TheDeathlyCow
+- More Tags by gudenau
+- More Villagers by SameDifferent
+- Music Duration Reducer by LudoCrypt
+- Mythic Metals by Noaaan
+- Mythic Metals Decorations by Noaaan
+- Naturalist by Starfish_Studios
+- Nature's Compass by Chaosyr
+- Nether Portal Fix by BlayTheNinth
+- Nox Legacy by SciRave
+- Oh The Biomes You'll Go by AOCAWOL
+- Overweight Farming by agentmhkskg
+- Owo Lib by gliscowo
+- Oxidized by safrodev
+- Packet Size Doubler by THESIIG
+- Paginated Advancements by DaFuqsy
+- Paradise Lost by ImmortalDevs
+- Patchouli by williewillus
+- Paxi by YUNGNICKYUNG
+- Physics by haubna
+- Pick Up Notifier by tr9zw
+- Plushie by Link_911
+- Powah by thetechnic4n
+- Presence Footsteps by S0llace
+- Promenade by Hugman_76
+- Purpeille by acikek
+- Puzzles Lib by fuzs_
+- Quark Crystals by Fluffy_Bumblebee
+- Quarry Reborn by TED_inc
+- Raised by yurisuika
+- Red Bits by magistermaks
+- Reese's Sodium Options by FlashyReese
+- Repurposed Structures by telepathicgrunt
+- Resolution Control+ by UltimateBoomer
+- Respawnable Pets by MoriyaShiine
+- Revelationary by DaFuqs
+- Rhino by LatvianModder
+- Roughly Enough Items by shedaniel
+- Roughly Enough Resources by theorbagain
+- Roughly Enough Trades by GrigLog
+- Rusted Iron by Lemonszz
+- ServerCore by Wesley8081
+- Simple Animated Guns by elidhanmc
+- Smoke Suppression by supersaiyansubtlety
+- Smooth Chunk by fl0gic
+- Snow! Real Magic! by Snownee_
+- Sodium by jellysquid3_
+- Sodium Extra by FlashyReese
+- Soul Fire'd by Crystal Spider
+- Sound Physics by henkelmax
+- Spectrum by DaFuqs
+- Spiders 2.0 by theNyfaria
+- Stained Trees by Fluffy_Bumblebee
+- St'ructure Tools by ProjectET
+- Starlight by Spottedstar
+- Stoneholm by TheGrimsey
+- Tech Reborn by modmuss50
+- Terrablender by TheAdubbz
+- Terrarian Slimes by D4rkness_King
+- Terrestria by TerraformersMC
+- Thatched by lilypuree
+- The Bumblezone by telepathicgrunt
+- The Graveyard by finallion_13
+- The Graveyard Biomes by finallion_13
+- Tie Fix by j_t_a_i
+- Toast Block by Linguardium
+- Trap Expansion by DomamaN202
+- Traverse by TerraformersMC
+- Trinkets by EmilyPloszaj
+- Twigs by ninnih_
+- Twilight Forest by TeamTwilight
+- Unearthed by lilypuree
+- Vein Mining by TheIllusiveC4
+- Villager Hats by PinkGoosik
+- Visuality by PinkGoosik
+- Visual Workbench by Fuzs_
+- Very Many Players by ishlandmc
+- Wild Backport by blackgear27
+- Wild Backport: Additions by Jukittita
+- Wired Redstone by Kneelawk
+- Wireless Networks by GabrielHOlv
+- WMITAF by ShakesterNano
+- WTHIT by badasintended
+- XP Obelisk by Meridanus
+- You're in grave danger by b1n_ry
+- Your options shall be respected by Shedaniel
+- Yung's Api by YUNGNICKYUNG
+
+Shaderpacks and Resourcepacks:
+
+- Complementary Shaders by EminGTR
+- Realistic Explosions by Narri
+# Codebase Repository:
+- https://github.com/FluffyBumblebees/All-The-Blocks-Codebase

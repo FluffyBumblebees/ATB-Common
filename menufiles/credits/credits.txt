@@ -12,6 +12,7 @@ AE2: Wireless Terminals by Mari_023
 Alloy Forgery by LordDeatHunter
 Alternate Current by SpaceWalkerRS
 Ambient Sounds by CreativeMD
+Amethyst Imbuement by fzzyhmstrs
 Another Furniture by Starfish_Studios
 Apple Skin by Squeek502
 Applied Energistics 2 by TeamAppliedEnergistics
@@ -202,6 +203,7 @@ Reese's Sodium Options by FlashyReese
 Repurposed Structures by telepathicgrunt
 Resolution Control+ by UltimateBoomer
 Respawnable Pets by MoriyaShiine
+Revelationary by DaFuqs
 Rhino by LatvianModder
 Roughly Enough Items by shedaniel
 Roughly Enough Resources by theorbagain
@@ -216,6 +218,7 @@ Sodium by jellysquid3_
 Sodium Extra by FlashyReese
 Soul Fire'd by Crystal Spider
 Sound Physics by henkelmax
+Spectrum by DaFuqs
 Spiders 2.0 by theNyfaria
 Stained Trees by Fluffy_Bumblebee
 St'ructure Tools by ProjectET

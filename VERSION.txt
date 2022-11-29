@@ -10,6 +10,6 @@ Client Package:
 https://www.dropbox.com/s/py0eiazjoo1f8cb/All%20The%20Blocks%20%28Modpack.zip?dl=0
 
 Server Package:
-https://www.dropbox.com/s/h5t6605j0tc7god/All%20the%20Blocks%20%28Server%29.zip?dl=0
+https://www.dropbox.com/s/ux46pmgpakqtrqp/All%20the%20Blocks%20%28Server%29.zip?dl=0
 
 Changelog: https://discord.gg/fMSnenNSXM  #modpack-updates

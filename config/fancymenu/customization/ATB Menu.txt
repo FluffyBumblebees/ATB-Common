@@ -399,6 +399,6 @@ customization {
   actionid = facbe61e-6638-45dc-9d5e-3c44d5d9512c1664088873362
   action = addsplash
   y = -9
-  text = All The Blocks 1.7.11
+  text = All The Blocks 1.7.12
 }
 

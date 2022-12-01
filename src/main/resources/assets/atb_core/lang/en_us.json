@@ -107,5 +107,6 @@
   "fluid.spectrum.mud": "Mud",
   "fluid.spectrum.midnight_solution": "Midnight Solution",
   "fluid.the_aether.dense_aercloud": "Dense Cloud",
-  "fluid.xps.xp_fluid": "XP Fluid"
+  "fluid.xps.xp_fluid": "XP Fluid",
+  "block.customportalapi.customportalblock": "Mining Portal"
 }

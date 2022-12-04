@@ -3,7 +3,7 @@ So vanilla minecraft wasn't enough for you? Well here it is! A playground with a
 Please consider donating:
 - https://ko-fi.com/fluffybumblebee66143
 
-#               **257 Mods**
+#               **255 Mods**
 
 Mods in this modpack (**Alphabetical**) (+ Credits):
 - Ad Astra! by Alex Nijjar
@@ -33,6 +33,7 @@ Mods in this modpack (**Alphabetical**) (+ Credits):
 - Axolotl Item Fix by colderlavalamp
 - Badpackets by badasintended
 - Balm by BlayTheNinth
+- Bamboo Everything by Gaz492
 - BcLib by paulevs
 - Beehive Tooltips by EDToaster
 - Beenfo by Giselbaer
@@ -50,6 +51,7 @@ Mods in this modpack (**Alphabetical**) (+ Credits):
 - Botania by williewillus
 - Bow Infinity Fix by Parker8283
 - Break Progress by haykam
+- Bushier Flowers by Pandarix
 - C2ME by Ishland
 - Can I mine this block? by shedaniel
 - Carpet by gnembon
@@ -83,7 +85,6 @@ Mods in this modpack (**Alphabetical**) (+ Credits):
 - Croptopia by thethonk
 - Croptopia's Chocolaterie by slomax907
 - CTM Refabricated by CodexAdrian
-- Cull Clouds by ugamii
 - Custom Portals by palyon_1
 - Dark Enchanting by ffrannny
 - Dark Utilities by DarkhaxDev
@@ -134,7 +135,6 @@ Mods in this modpack (**Alphabetical**) (+ Credits):
 - Guard Villagers by MrSterner_
 - Hephaestus by Alphamode
 - HoldThatChunk by dlee13
-- HT's Treechop by hammertater
 - Hydrogen by jellysquid3_
 - Hyle by lilypuree
 - Iceberg by Grend_G
@@ -195,7 +195,6 @@ Mods in this modpack (**Alphabetical**) (+ Credits):
 - Paradise Lost by ImmortalDevs
 - Patchouli by williewillus
 - Paxi by YUNGNICKYUNG
-- Physics by haubna
 - Pick Up Notifier by tr9zw
 - Plushie by Link_911
 - Powah by thetechnic4n
@@ -219,7 +218,6 @@ Mods in this modpack (**Alphabetical**) (+ Credits):
 - Rusted Iron by Lemonszz
 - ServerCore by Wesley8081
 - Simple Animated Guns by elidhanmc
-- Smoke Suppression by supersaiyansubtlety
 - Smooth Chunk by fl0gic
 - Snow! Real Magic! by Snownee_
 - Sodium by jellysquid3_

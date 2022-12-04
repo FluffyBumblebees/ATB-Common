@@ -25,6 +25,7 @@ Auudio by Keksuccino
 Axolotl Item Fix by colderlavalamp
 Badpackets by badasintended
 Balm by BlayTheNinth
+Bamboo Everything by Gaz492
 BcLib by paulevs
 Beehive Tooltips by EDToaster
 Beenfo by Giselbaer
@@ -42,6 +43,7 @@ Bookshelf by DarkhaxDev
 Botania by williewillus
 Bow Infinity Fix by Parker8283
 Break Progress by haykam
+Bushier Flowers by Pandarix
 C2ME by Ishland
 Can I mine this block? by shedaniel
 Carpet by gnembon
@@ -75,7 +77,6 @@ Creeper Safety by Fluffy Bumblebee
 Croptopia by thethonk
 Croptopia's Chocolaterie by slomax907
 CTM Refabricated by CodexAdrian
-Cull Clouds by ugamii
 Custom Portals by palyon_1
 Dark Enchanting by ffrannny
 Dark Utilities by DarkhaxDev
@@ -186,7 +187,6 @@ Paginated Advancements by DaFuqsy
 Paradise Lost by ImmortalDevs
 Patchouli by williewillus
 Paxi by YUNGNICKYUNG
-Physics by haubna
 Pick Up Notifier by tr9zw
 Plushie by Link_911
 Powah by thetechnic4n
@@ -210,7 +210,6 @@ Roughly Enough Trades by GrigLog
 Rusted Iron by Lemonszz
 ServerCore by Wesley8081
 Simple Animated Guns by elidhanmc
-Smoke Suppression by supersaiyansubtlety
 Smooth Chunk by fl0gic
 Snow! Real Magic! by Snownee_
 Sodium by jellysquid3_

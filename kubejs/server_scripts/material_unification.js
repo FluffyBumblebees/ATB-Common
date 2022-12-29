@@ -383,6 +383,55 @@ onEvent('recipes', event => {
 	"processTime": 600
 	})
 	event.replaceOutput('modern_industrialization:steel_ingot', 'techreborn:steel_ingot')
+	event.replaceOutput('amethyst_imbuement:steel_ingot', 'modern_industrialization:steel_ingot')
+	event.replaceInput('amethyst_imbuement:steel_ingot', 'modern_industrialization:steel_ingot')
+	event.remove({output: 'amethyst_imbuement:steel_ingot'})
+	event.custom({
+		"type": "amethyst_imbuement:imbuing",
+		"imbueA": {
+			"item": "minecraft:magma_block"
+		},
+		"imbueB": {
+			"item": "minecraft:magma_block"
+		},
+		"imbueC": {
+			"item": "minecraft:magma_block"
+		},
+		"imbueD": {
+			"item": "minecraft:magma_block"
+		},
+		"craftA": {
+			"item": "minecraft:raw_iron"
+		},
+		"craftB": {
+			"item": "minecraft:raw_iron"
+		},
+		"craftC": {
+			"item": "minecraft:raw_iron"
+		},
+		"craftD": {
+			"item": "minecraft:raw_iron"
+		},
+		"craftE": {
+			"tag": "minecraft:coals"
+		},
+		"craftF": {
+			"item": "minecraft:raw_iron"
+		},
+		"craftG": {
+			"item": "minecraft:raw_iron"
+		},
+		"craftH": {
+			"item": "minecraft:raw_iron"
+		},
+		"craftI": {
+			"item": "minecraft:raw_iron"
+		},
+		"title": "Steel Ingot",
+		"cost": 1,
+		"resultA": "modern_industrialization:steel_ingot",
+		"countA": 4
+	})
 	event.remove({input: '9x techreborn:steel_nugget'})
 	event.remove({output: '9x indrev:steel_ingot'})
 	event.shapeless('9x modern_industrialization:steel_ingot', 'indrev:steel_block')

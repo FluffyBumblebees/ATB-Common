@@ -2,7 +2,7 @@
   "general": {
     "displayTooltip": true,
     "shiftForDetails": true,
-    "hideShiftText": false,
+    "hideShiftText": true,
     "displayMode": "TOGGLE",
     "hideFromPlayerList": true,
     "hideFromDebug": true,
@@ -13,18 +13,18 @@
     "position": {
       "align": {
         "x": "CENTER",
-        "y": "BOTTOM"
+        "y": "TOP"
       },
       "anchor": {
         "x": "CENTER",
-        "y": "BOTTOM"
+        "y": "TOP"
       },
       "x": 0,
-      "y": -72,
-      "bossBarsOverlap": true
+      "y": 5,
+      "bossBarsOverlap": false
     },
     "color": {
-      "alpha": 50,
+      "alpha": 80,
       "themes": [
         {
           "id": "waila:dark",
@@ -43,7 +43,7 @@
       ],
       "activeTheme": "waila:vanilla"
     },
-    "scale": 0.85
+    "scale": 0.8
   },
   "formatter": {
     "modName": "§9§o%s",

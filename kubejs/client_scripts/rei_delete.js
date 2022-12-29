@@ -444,7 +444,8 @@ onEvent('rei.hide.items', event => {
 	'consistency_plus:light_gray_ice_wall',
 	'consistency_plus:lime_ice',
 	'consistency_plus:magenta_ice_slab',
-	'consistency_plus:lime_ice_stairs'
+	'consistency_plus:lime_ice_stairs',
+	'amethyst_imbuement:steel_ingot'
 	]
    )
  }

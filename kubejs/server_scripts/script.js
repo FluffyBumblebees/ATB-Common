@@ -1,9 +1,9 @@
 // priority: 0
 
-settings.logAddedRecipes = true
-settings.logRemovedRecipes = true
-settings.logSkippedRecipes = true
-settings.logErroringRecipes = true
-settings.logOverrides = true
+settings.logAddedRecipes = false
+settings.logRemovedRecipes = false
+settings.logSkippedRecipes = false
+settings.logErroringRecipes = false
+settings.logOverrides = false
 
 console.info('All The Blocks Code Compat is initialising!')

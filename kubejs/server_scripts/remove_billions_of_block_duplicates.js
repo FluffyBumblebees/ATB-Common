@@ -405,7 +405,27 @@ onEvent('recipes', event => {
 	craftStoneAlternative2('blockus:orange_shingles', 'minecraft:orange_terracotta')
 	removeCrafting('blockus:orange_concrete_bricks')
 	craftStoneAlternative('blockus:orange_concrete_bricks', 'consistency_plus:polished_orange_concrete')
-
+	
+	//bamboo
+	removeCrafting('bambooeverything:bamboo_bundle')
+	event.shaped('bambooeverything:bamboo_bundle', [
+		'III',
+		'ISI',
+		'III'
+		], {
+		I: 'minecraft:bamboo',
+		S: 'minecraft:string'
+		}
+	)
+	removeCrafting('enriched:bamboo_planks')
+	event.shaped('enriched:bamboo_planks', [
+		' I ',
+		'I I',
+		' I '
+		], {
+		I: 'minecraft:bamboo'
+		}
+	)
 })
 
 

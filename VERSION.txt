@@ -1,7 +1,7 @@
-1.8
+1.9
 
 MC Version: 1.18.2
-Fabric Loader: 0.14.11
+Fabric Loader: 0.14.12
 FAPI: 0.67.0
 
 Modpack Page: https://www.technicpack.net/modpack/the-limit-reborn-1181.1905659

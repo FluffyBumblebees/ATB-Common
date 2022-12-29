@@ -6,6 +6,9 @@
     "megane-industrial-revolution": {
       "lol.bai.megane.module.indrev.MeganeIndustrialRevolution": true
     },
+    "upc": {
+      "ooo.foooooooooooo.upc.compat.megane.UPCMeganeModule": true
+    },
     "modern_industrialization": {
       "aztech.modern_industrialization.compat.megane.MIMeganeModule": true
     },

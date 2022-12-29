@@ -40,7 +40,7 @@
     "redstone.level": true,
     "player_head.name": true,
     "level.composter": true,
-    "level.honey": true,
+    "level.honey": false,
     "note_block.type": true,
     "note_block.note": "SHARP",
     "note_block.int_value": false

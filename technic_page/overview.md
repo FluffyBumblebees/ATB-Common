@@ -3,7 +3,7 @@ So vanilla minecraft wasn't enough for you? Well here it is! A playground with a
 Please consider donating:
 - https://ko-fi.com/fluffybumblebee66143
 
-#               **255 Mods**
+#               **292 Mods**
 
 Mods in this modpack (**Alphabetical**) (+ Credits):
 - Ad Astra! by Alex Nijjar
@@ -21,11 +21,14 @@ Mods in this modpack (**Alphabetical**) (+ Credits):
 - Alternate Current by SpaceWalkerRS
 - Ambient Sounds by CreativeMD
 - Amethyst Imbuement by fzzyhmstrs
+- Annotated DI by The_Fireplace
 - Another Furniture by Starfish_Studios
 - Apple Skin by Squeek502
+- Applied Botanics by ramidzkh
 - Applied Energistics 2 by TeamAppliedEnergistics
 - Architect's Palette by slomax907
 - Architectury by shedaniel
+- Artifacts by ochotonida
 - ATB Core by Fluffy Bumblebee
 - AttributeFix by Flytre7
 - Audio Engine Tweaks by The__Matty
@@ -35,10 +38,10 @@ Mods in this modpack (**Alphabetical**) (+ Credits):
 - Balm by BlayTheNinth
 - Bamboo Everything by Gaz492
 - BcLib by paulevs
-- Beehive Tooltips by EDToaster
 - Beenfo by Giselbaer
 - Better Animal Models by cybercat5555
 - Better Biome Blend by FionaTheMortal
+- Better Compatibility Checker by Gaz_
 - Better End by paulevs
 - Better Nether by paulevs
 - Better Sodium Video Settings Button by LimeShulkerBox
@@ -53,12 +56,19 @@ Mods in this modpack (**Alphabetical**) (+ Credits):
 - Break Progress by haykam
 - Bushier Flowers by Pandarix
 - C2ME by Ishland
+- Camera Overhaul by Mirsario
 - Can I mine this block? by shedaniel
+- Cardinal Components by UpcraftLP
 - Carpet by gnembon
 - Carpet Extra by gnembon
 - Carpet Fixes by FX_PR0CESS
+- Carpet Layers by GGCrosby
 - Carrier by GabrielHOIv
+- Catwalks Inc by Reoseah
+- CC: Restitched by merithtk
+- Charging Gadgets by ProjectET
 - Charm by svenhjol
+- Chassis by Librv
 - Chipped by grimbop
 - Chisel Refabricated by Slaincow
 - Cinderscapes by TerraformersMC
@@ -69,14 +79,18 @@ Mods in this modpack (**Alphabetical**) (+ Credits):
 - Comforts by TheIllusiveC4
 - Compact Machines by AlphaMode
 - Companion by Snownee_
+- Compressor by Libra
 - Consistency+ by Cart3r1234
 - Cooking for Blockheads by BlayTheNinth
 - Coral Reef by primetoxinz
 - Coxinha Utilities by Luligabi12el
+- Craft Presence by CDAGaming_
 - Crawl by fewizz_
 - Create by Fabricators of Create
+- Create Chunkloading by embeddedt
 - Create Crafts and Additions by Alphamode & MRHMiner
 - Create Deco by Alphamode & talrey
+- Create Extended Flywheels by Rabbitminers
 - Create Plus by JieningYu
 - CreativeCore by CreativeMD
 - Creeper AI Updated by srgnis
@@ -90,6 +104,8 @@ Mods in this modpack (**Alphabetical**) (+ Credits):
 - Dark Utilities by DarkhaxDev
 - Dawn API by Hugman_76
 - Decorative Blocks by stohun
+- Doodads by TheArcanePigeon
+- Dragon Loot by pois1xlive
 - Drink Beer by Lekavar
 - Drippy Loading Screen by Keksuccino
 - Dustrial Decor by BlueDuckYT
@@ -127,13 +143,19 @@ Mods in this modpack (**Alphabetical**) (+ Credits):
 - Fast open links and folders by altrisi
 - Feature NBT Deadlock Be Gone by telepathicgrunt
 - FerriteCore by malte0811
+- Find Me by Buuz135
+- Fireplace Lib by The_Fireplace
 - Floral Flair by ibex80
 - Forge Config Api Port by Fuzs_
 - Friends & Foes by faboslav
 - Gecko Lib by ThanosGecko
+- Glassential by Lykrast
+- Go Fish by Draylar1
+- Golden Hoppers by MrCrayfish
 - Gotta Go Fast by PixelAgent007
 - Guard Villagers by MrSterner_
 - Hephaestus by Alphamode
+- Hex Casting by petrak_at
 - HoldThatChunk by dlee13
 - Hydrogen by jellysquid3_
 - Hyle by lilypuree
@@ -157,10 +179,12 @@ Mods in this modpack (**Alphabetical**) (+ Credits):
 - LazyDFU by tuxed
 - Let Me Despawn by frikinjay
 - Light Overlay by shedaniel
+- Litematica by masady
 - Lithium by jellysquid3_
 - Little Ants by mastrocaleb
 - Log Begone by AzureDoomC
 - Luggage by GizmoTheMoonPig
+- MaLi Lib by masady
 - Maple Forest by Fluffy Bumblebee
 - MCPitanLibArch by Pitan
 - Megane by badasintended
@@ -179,14 +203,18 @@ Mods in this modpack (**Alphabetical**) (+ Credits):
 - More Geodes by TheDeathlyCow
 - More Tags by gudenau
 - More Villagers by SameDifferent
+- Mouse Tweaks by YaLTeR
 - Music Duration Reducer by LudoCrypt
 - Mythic Metals by Noaaan
 - Mythic Metals Decorations by Noaaan
 - Naturalist by Starfish_Studios
 - Nature's Compass by Chaosyr
 - Nether Portal Fix by BlayTheNinth
+- Nikolite Expansion by Luligabi12
 - Nox Legacy by SciRave
 - Oh The Biomes You'll Go by AOCAWOL
+- On A Stick by andantet
+- Overlord by The_Fireplace
 - Overweight Farming by agentmhkskg
 - Owo Lib by gliscowo
 - Oxidized by safrodev
@@ -195,6 +223,7 @@ Mods in this modpack (**Alphabetical**) (+ Credits):
 - Paradise Lost by ImmortalDevs
 - Patchouli by williewillus
 - Paxi by YUNGNICKYUNG
+- PAUCAL by petrak_at
 - Pick Up Notifier by tr9zw
 - Plushie by Link_911
 - Powah by thetechnic4n
@@ -218,6 +247,8 @@ Mods in this modpack (**Alphabetical**) (+ Credits):
 - Rusted Iron by Lemonszz
 - ServerCore by Wesley8081
 - Simple Animated Guns by elidhanmc
+- Simple Hats by fonnymunkey
+- Simple Void World by modmuss50
 - Smooth Chunk by fl0gic
 - Snow! Real Magic! by Snownee_
 - Sodium by jellysquid3_
@@ -226,6 +257,7 @@ Mods in this modpack (**Alphabetical**) (+ Credits):
 - Sound Physics by henkelmax
 - Spectrum by DaFuqs
 - Spiders 2.0 by theNyfaria
+- Spirit by CodexAdrian
 - Stained Trees by Fluffy_Bumblebee
 - St'ructure Tools by ProjectET
 - Starlight by Spottedstar
@@ -238,19 +270,24 @@ Mods in this modpack (**Alphabetical**) (+ Credits):
 - The Bumblezone by telepathicgrunt
 - The Graveyard by finallion_13
 - The Graveyard Biomes by finallion_13
+- Things by gliscowo
 - Tie Fix by j_t_a_i
+- Tips by DarkhaxDev
 - Toast Block by Linguardium
+- ToolStats by DarkhaxDev
 - Trap Expansion by DomamaN202
 - Traverse by TerraformersMC
 - Trinkets by EmilyPloszaj
 - Twigs by ninnih_
 - Twilight Forest by TeamTwilight
 - Unearthed by lilypuree
+- UPC by foopyfoopyfoopy
 - Vein Mining by TheIllusiveC4
 - Villager Hats by PinkGoosik
 - Visuality by PinkGoosik
 - Visual Workbench by Fuzs_
 - Very Many Players by ishlandmc
+- When Dungeons Arise! by Aureljz
 - Wild Backport by blackgear27
 - Wild Backport: Additions by Jukittita
 - Wired Redstone by Kneelawk
@@ -262,9 +299,9 @@ Mods in this modpack (**Alphabetical**) (+ Credits):
 - Your options shall be respected by Shedaniel
 - Yung's Api by YUNGNICKYUNG
 
-Shaderpacks and Resourcepacks:
-
+Resources in this modpack (& Cedits):
+- Complementary Reimagined by EminGTR
 - Complementary Shaders by EminGTR
-- Realistic Explosions by Narri
-# Codebase Repository:
+- Towers of the Wild by idrae_
+# Repository:
 - https://github.com/FluffyBumblebees/All-The-Blocks-Codebase

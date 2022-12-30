@@ -132,6 +132,7 @@ Farmer's Delight by NewHoryzon
 Farmer's Knives by ianm1647
 Farming for Blockheads by BlayTheNinth
 Fast Load by Fluffy Bumblebee
+Fast Quit by KingContaria
 Fast open links and folders by altrisi
 Feature NBT Deadlock Be Gone by telepathicgrunt
 FerriteCore by malte0811

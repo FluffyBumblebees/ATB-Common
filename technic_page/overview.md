@@ -3,7 +3,7 @@ So vanilla minecraft wasn't enough for you? Well here it is! A playground with a
 Please consider donating:
 - https://ko-fi.com/fluffybumblebee66143
 
-#               **292 Mods**
+#               **293 Mods**
 
 Mods in this modpack (**Alphabetical**) (+ Credits):
 - Ad Astra! by Alex Nijjar
@@ -140,6 +140,7 @@ Mods in this modpack (**Alphabetical**) (+ Credits):
 - Farmer's Knives by ianm1647
 - Farming for Blockheads by BlayTheNinth
 - Fast Load by Fluffy Bumblebee
+- Fast Quit by KingContaria
 - Fast open links and folders by altrisi
 - Feature NBT Deadlock Be Gone by telepathicgrunt
 - FerriteCore by malte0811

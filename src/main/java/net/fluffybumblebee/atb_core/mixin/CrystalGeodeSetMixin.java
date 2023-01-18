@@ -1,8 +1,8 @@
 package net.fluffybumblebee.atb_core.mixin;
 
 import com.kwpugh.more_gems.init.BlockInit;
-import net.fluffybumblebee.quarkcrystals.block.custom.CorundumCluster;
-import net.fluffybumblebee.quarkcrystals.util.QCUtil;
+import net.fluffybumblebee.terrains.common.registry.sets.crystal_geodes.component.CrystalGeodeSet;
+import net.minecraft.block.AmethystClusterBlock;
 import net.minecraft.block.Block;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Blocks;
@@ -22,10 +22,10 @@ import java.util.List;
 
 import static net.minecraft.world.gen.feature.ConfiguredFeatures.register;
 
-@Mixin(QCUtil.class)
-public class QCUtilMixin {
+@Mixin(CrystalGeodeSet.class)
+public class CrystalGeodeSetMixin {
     @Inject(method  = "registerGeode", at = @At("HEAD"), cancellable = true, remap = false)
-    private static <B extends Block, C extends CorundumCluster> void onRegister(
+    private static <B extends Block, C extends AmethystClusterBlock> void onRegister(
             B corundum,
             B crystal,
             C cluster,

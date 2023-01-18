@@ -27,7 +27,7 @@
   "depends": {
     "fabricloader": ">=0.14.9",
     "fabric": "*",
-    "quark_crystals": "*",
+    "terrains": "*",
     "more_gems": "*",
     "expandeddelight": "*",
     "minecraft": "1.18.2",

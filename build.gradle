@@ -55,6 +55,11 @@ repositories {
 		url = 'https://maven.parchmentmc.org'
 	}
 	maven { url "https://maven.bai.lol" }
+	maven { url = 'https://maven.minecraftforge.net/' }
+	maven {
+		name = 'TerraformersMC'
+		url = 'https://maven.terraformersmc.com/'
+	}
 }
 
 dependencies {
@@ -63,8 +68,13 @@ dependencies {
 	modImplementation "net.fabricmc:fabric-loader:${project.loader_version}"
 
 	modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}"
+	modImplementation "com.github.glitchfiend:TerraBlender-fabric:${project.minecraft_version}-${project.terrablender_version}"
+	modImplementation "com.terraformersmc.terraform-api:terraform-tree-api-v1:${project.terraform_api_version}"
+	modImplementation "com.terraformersmc.terraform-api:terraform-wood-api-v1:${project.terraform_api_version}"
+	modImplementation "com.terraformersmc.terraform-api:terraform-shapes-api-v1:${project.terraform_api_version}"
+
 	modImplementation "com.ianm1647.expandeddelight:expandeddelight:${project.expanded_delight_version}"
-	modImplementation "net.fluffybumblebee.quarkcrystals:Quark-Crystals:${project.minecraft_version}-${project.quark_crystals_version}"
+	modImplementation "net.fluffybumblebee.terrains:Terrains:${project.minecraft_version}-${project.terrains_version}"
 	modImplementation "com.kwpugh.more_gems:MoreGems-Fabric-${project.minecraft_version}-${project.more_gems_version}"
 }
 

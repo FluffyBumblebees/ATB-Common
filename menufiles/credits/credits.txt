@@ -48,7 +48,6 @@ Bow Infinity Fix by Parker8283
 Break Progress by haykam
 Bushier Flowers by Pandarix
 C2ME by Ishland
-Camera Overhaul by Mirsario
 Can I mine this block? by shedaniel
 Cardinal Components by UpcraftLP
 Carpet by gnembon
@@ -178,7 +177,6 @@ Little Ants by mastrocaleb
 Log Begone by AzureDoomC
 Luggage by GizmoTheMoonPig
 MaLi Lib by masady
-Maple Forest by Fluffy Bumblebee
 MCPitanLibArch by Pitan
 Megane by badasintended
 Memory Leak Fix by fxmorin
@@ -224,7 +222,6 @@ Presence Footsteps by S0llace
 Promenade by Hugman_76
 Purpeille by acikek
 Puzzles Lib by fuzs_
-Quark Crystals by Fluffy_Bumblebee
 Quarry Reborn by TED_inc
 Raised by yurisuika
 Red Bits by magistermaks
@@ -251,12 +248,12 @@ Sound Physics by henkelmax
 Spectrum by DaFuqs
 Spiders 2.0 by theNyfaria
 Spirit by CodexAdrian
-Stained Trees by Fluffy_Bumblebee
 St'ructure Tools by ProjectET
 Starlight by Spottedstar
 Stoneholm by TheGrimsey
 Tech Reborn by modmuss50
 Terrablender by TheAdubbz
+Terrains by Fluffy Bumblebee
 Terrarian Slimes by D4rkness_King
 Terrestria by TerraformersMC
 Thatched by lilypuree

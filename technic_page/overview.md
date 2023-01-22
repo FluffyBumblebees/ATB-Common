@@ -3,7 +3,7 @@ So vanilla minecraft wasn't enough for you? Well here it is! A playground with a
 Please consider donating:
 - https://ko-fi.com/fluffybumblebee66143
 
-#               **293 Mods**
+#               **290 Mods**
 
 Mods in this modpack (**Alphabetical**) (+ Credits):
 - Ad Astra! by Alex Nijjar
@@ -56,7 +56,6 @@ Mods in this modpack (**Alphabetical**) (+ Credits):
 - Break Progress by haykam
 - Bushier Flowers by Pandarix
 - C2ME by Ishland
-- Camera Overhaul by Mirsario
 - Can I mine this block? by shedaniel
 - Cardinal Components by UpcraftLP
 - Carpet by gnembon
@@ -186,7 +185,6 @@ Mods in this modpack (**Alphabetical**) (+ Credits):
 - Log Begone by AzureDoomC
 - Luggage by GizmoTheMoonPig
 - MaLi Lib by masady
-- Maple Forest by Fluffy Bumblebee
 - MCPitanLibArch by Pitan
 - Megane by badasintended
 - Memory Leak Fix by fxmorin
@@ -232,7 +230,6 @@ Mods in this modpack (**Alphabetical**) (+ Credits):
 - Promenade by Hugman_76
 - Purpeille by acikek
 - Puzzles Lib by fuzs_
-- Quark Crystals by Fluffy_Bumblebee
 - Quarry Reborn by TED_inc
 - Raised by yurisuika
 - Red Bits by magistermaks
@@ -259,12 +256,12 @@ Mods in this modpack (**Alphabetical**) (+ Credits):
 - Spectrum by DaFuqs
 - Spiders 2.0 by theNyfaria
 - Spirit by CodexAdrian
-- Stained Trees by Fluffy_Bumblebee
 - St'ructure Tools by ProjectET
 - Starlight by Spottedstar
 - Stoneholm by TheGrimsey
 - Tech Reborn by modmuss50
 - Terrablender by TheAdubbz
+- Terrains by Fluffy Bumblebee
 - Terrarian Slimes by D4rkness_King
 - Terrestria by TerraformersMC
 - Thatched by lilypuree

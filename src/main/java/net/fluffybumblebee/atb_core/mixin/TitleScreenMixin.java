@@ -12,15 +12,21 @@ import java.util.concurrent.TimeUnit;
 
 @Mixin(TitleScreen.class)
 public class TitleScreenMixin {
-    private static boolean FIRST = false;
+    private static boolean
+            FIRST = false,
+            SECOND = false;
 
     @Inject(method = "init", at = @At("TAIL"))
     private void endTimer(final CallbackInfo ci) {
-        if (FIRST) {
+        if (FIRST && !SECOND) {
             BootTimer.STOP_WATCH.stop();
             ATBCore.LOGGER.info("");
             ATBCore.LOGGER.info("Total bootstrap time (Seconds): " + BootTimer.STOP_WATCH.getTime(TimeUnit.SECONDS));
             ATBCore.LOGGER.info("");
-        } else FIRST = true;
+            BootTimer.STOP_WATCH.reset();
+            SECOND = true;
+        }
+        if (!FIRST)
+            FIRST = true;
     }
 }

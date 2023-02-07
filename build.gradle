@@ -11,36 +11,15 @@ repositories {
 		dirs 'dependencies'
 	}
 	maven {
-		name 'Shedman maven'
-		url 'https://maven.shedaniel.me/'
+		url = 'https://maven.minecraftforge.net/'
 	}
-
-	maven {
-		name 'blamejared'
-		url 'https://maven.blamejared.com'
-	}
-	maven {
-		url = "https://maven.jamieswhiteshirt.com/libs-release"
-		content {
-			includeGroup("com.jamieswhiteshirt")
-		}
-	}
-	maven { url = "https://maven.terraformersmc.com/" }
-	maven {
-		name = "Progwml6 maven"
-		url = "https://dvs1.progwml6.com/files/maven/"
-	}
-	maven {
-		name = "ModMaven"
-		url = "https://modmaven.dev"
-	}
-	maven { url "https://maven.bai.lol" }
-	maven { url = 'https://maven.minecraftforge.net/' }
 	maven {
 		name = 'TerraformersMC'
 		url = 'https://maven.terraformersmc.com/'
 	}
-	maven { url 'https://jitpack.io' }
+	maven {
+		url 'https://jitpack.io'
+	}
 }
 
 dependencies {

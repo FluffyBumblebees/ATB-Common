@@ -3,11 +3,13 @@
   "minVersion": "0.8",
   "package": "net.fluffybumblebee.atb_core.internal.mixin",
   "compatibilityLevel": "JAVA_17",
-  "mixins": [],
+  "mixins": [
+    "BootstrapMixin"
+  ],
   "client": [
     "InGameHudMixin",
-    "MainMixin",
-    "TitleScreenMixin"
+    "SharedConstantsMixin",
+    "SpriteAtlasHolderMixin"
   ],
   "injectors": {
     "defaultRequire": 1

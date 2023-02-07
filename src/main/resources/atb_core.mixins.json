@@ -8,7 +8,9 @@
     "CrystalGeodeSetMixin"
   ],
   "client": [
-    "InGameHudMixin"
+    "InGameHudMixin",
+    "MainMixin",
+    "TitleScreenMixin"
   ],
   "injectors": {
     "defaultRequire": 1

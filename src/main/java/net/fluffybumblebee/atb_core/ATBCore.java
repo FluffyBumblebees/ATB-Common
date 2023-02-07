@@ -9,6 +9,5 @@ public class ATBCore implements ModInitializer {
 	public static final Logger LOGGER = LoggerFactory.getLogger(MOD_NAME);
 	@Override
 	public void onInitialize() {
-		LOGGER.info("Custom utils for ATB");
 	}
 }

@@ -1,6 +1,6 @@
-package net.fluffybumblebee.atb_core.mixin;
+package net.fluffybumblebee.atb_core.internal.mixin;
 
-import net.fluffybumblebee.atb_core.BootTimer;
+import net.fluffybumblebee.atb_core.util.BootTimer;
 import net.minecraft.client.main.Main;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;

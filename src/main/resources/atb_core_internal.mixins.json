@@ -1,12 +1,9 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "net.fluffybumblebee.atb_core.mixin",
+  "package": "net.fluffybumblebee.atb_core.internal.mixin",
   "compatibilityLevel": "JAVA_17",
-  "mixins": [
-    "BlockRegistryMixin",
-    "CrystalGeodeSetMixin"
-  ],
+  "mixins": [],
   "client": [
     "InGameHudMixin",
     "MainMixin",

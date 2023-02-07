@@ -1,6 +1,8 @@
-package net.fluffybumblebee.atb_core.mixin;
+package net.fluffybumblebee.atb_core.external.terrains_crystal_more_gems_compat.mixin;
 
 import com.kwpugh.more_gems.init.BlockInit;
+import me.fallenbreath.conditionalmixin.api.annotation.Condition;
+import me.fallenbreath.conditionalmixin.api.annotation.Restriction;
 import net.fluffybumblebee.terrains.common.registry.sets.crystal_geodes.component.CrystalGeodeSet;
 import net.minecraft.block.AmethystClusterBlock;
 import net.minecraft.block.Block;
@@ -22,6 +24,10 @@ import java.util.List;
 
 import static net.minecraft.world.gen.feature.ConfiguredFeatures.register;
 
+@Restriction(require = {
+        @Condition("terrains"),
+        @Condition("more_gems")
+})
 @Mixin(CrystalGeodeSet.class)
 public class CrystalGeodeSetMixin {
     @Inject(method  = "registerGeode", at = @At("HEAD"), cancellable = true, remap = false)

@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.fluffybumblebee.atb_core.external.farmers_delight_htc_fix.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "BlockRegistryMixin"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

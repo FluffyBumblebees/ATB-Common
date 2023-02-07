@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.fluffybumblebee.atb_core.external.terrains_crystal_more_gems_compat.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "CrystalGeodeSetMixin"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

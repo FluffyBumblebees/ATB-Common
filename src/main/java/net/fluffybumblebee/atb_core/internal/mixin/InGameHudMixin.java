@@ -1,4 +1,4 @@
-package net.fluffybumblebee.atb_core.mixin;
+package net.fluffybumblebee.atb_core.internal.mixin;
 
 import net.minecraft.client.gui.hud.InGameHud;
 import net.minecraft.client.util.math.MatrixStack;

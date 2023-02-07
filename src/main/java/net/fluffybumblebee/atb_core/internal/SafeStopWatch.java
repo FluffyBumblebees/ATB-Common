@@ -1,4 +1,4 @@
-package net.fluffybumblebee.atb_core;
+package net.fluffybumblebee.atb_core.internal;
 
 import org.apache.commons.lang3.time.StopWatch;
 

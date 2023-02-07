@@ -18,18 +18,16 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fluffybumblebee.atb_core.ATBCore"
+      "net.fluffybumblebee.atb_core.core.ATBCore"
     ]
   },
   "mixins": [
-    "atb_core.mixins.json"
+    "atb_core_internal.mixins.json",
+    "terrains_crystal_more_gems_compat.mixins.json"
   ],
   "depends": {
     "fabricloader": ">=0.14.9",
     "fabric": "*",
-    "terrains": "*",
-    "more_gems": "*",
-    "expandeddelight": "*",
     "minecraft": "1.18.2",
     "java": ">=17"
   }

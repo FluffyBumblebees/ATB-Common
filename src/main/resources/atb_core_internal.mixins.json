@@ -1,14 +1,14 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "net.fluffybumblebee.atb_core.internal.mixin",
+  "package": "net.stockieslad.atb_core.internal.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
   ],
   "client": [
-    "net.stockieslad.atb_core.internal.mixin.InGameHudMixin",
-    "net.stockieslad.atb_core.internal.mixin.SharedConstantsMixin",
-    "net.stockieslad.atb_core.internal.mixin.SpriteAtlasHolderMixin"
+    "InGameHudMixin",
+    "SharedConstantsMixin",
+    "SpriteAtlasHolderMixin"
   ],
   "injectors": {
     "defaultRequire": 1

@@ -1,6 +1,6 @@
-package net.fluffybumblebee.atb_core.internal;
+package net.stockieslad.atb_core.internal;
 
-import net.fluffybumblebee.atb_core.util.SafeStopWatch;
+import net.stockieslad.atb_core.util.SafeStopWatch;
 import org.apache.commons.lang3.time.StopWatch;
 
 import java.util.concurrent.TimeUnit;

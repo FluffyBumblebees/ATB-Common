@@ -4,7 +4,7 @@
   "package": "net.fluffybumblebee.atb_core.external.farmers_delight_htc_fix.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
-    "BlockRegistryMixin"
+    "net.stockieslad.atb_core.external.farmers_delight_htc_fix.mixin.BlockRegistryMixin"
   ],
   "client": [],
   "injectors": {

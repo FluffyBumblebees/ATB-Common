@@ -1,4 +1,4 @@
-package net.fluffybumblebee.atb_core.core;
+package net.stockieslad.atb_core.core;
 
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;

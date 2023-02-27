@@ -1,4 +1,4 @@
-package net.fluffybumblebee.atb_core.external.farmers_delight_htc_fix.mixin;
+package net.stockieslad.atb_core.external.farmers_delight_htc_fix.mixin;
 
 import com.ianm1647.expandeddelight.registry.BlockRegistry;
 import me.fallenbreath.conditionalmixin.api.annotation.Condition;

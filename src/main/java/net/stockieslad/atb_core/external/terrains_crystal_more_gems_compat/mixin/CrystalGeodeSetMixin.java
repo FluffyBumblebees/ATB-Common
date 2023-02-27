@@ -1,4 +1,4 @@
-package net.fluffybumblebee.atb_core.external.terrains_crystal_more_gems_compat.mixin;
+package net.stockieslad.atb_core.external.terrains_crystal_more_gems_compat.mixin;
 
 import com.kwpugh.more_gems.init.BlockInit;
 import me.fallenbreath.conditionalmixin.api.annotation.Condition;

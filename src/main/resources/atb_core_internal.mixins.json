@@ -6,9 +6,9 @@
   "mixins": [
   ],
   "client": [
-    "InGameHudMixin",
-    "SharedConstantsMixin",
-    "SpriteAtlasHolderMixin"
+    "net.stockieslad.atb_core.internal.mixin.InGameHudMixin",
+    "net.stockieslad.atb_core.internal.mixin.SharedConstantsMixin",
+    "net.stockieslad.atb_core.internal.mixin.SpriteAtlasHolderMixin"
   ],
   "injectors": {
     "defaultRequire": 1

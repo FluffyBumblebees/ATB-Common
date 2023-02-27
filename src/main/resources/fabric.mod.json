@@ -6,7 +6,7 @@
   "name": "ATB Core",
   "description": "Some useful stuff for ATB.",
   "authors": [
-    "Fluffy Bumblebee"
+    "StockiesLad"
   ],
   "contact": {
     "sources": ""
@@ -18,7 +18,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fluffybumblebee.atb_core.core.ATBCore"
+      "net.stockieslad.atb_core.core.ATBCore"
     ]
   },
   "mixins": [
